@@ -1,0 +1,11 @@
+{
+   "dbconf" : {
+      "name" : "ramesh",
+      "password" : "password3",
+      "profession" : "clerk",
+      "id": 3
+   },
+   "serverConf" : {
+      "port" : 
+   }
+}

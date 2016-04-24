@@ -1,0 +1,25 @@
+/*!
+ * @author: sandeep.mogla@gmail.com
+ */
+
+#header {
+    width: 960px;
+    height: 176px;
+    margin: 0 auto;
+    padding-bottom: 13px;
+    color: #FFF;
+    background: #065185 url("/images/vessels-and-pleasure-boats.jpg") top left no-repeat;
+}
+
+input[readonly] {
+    background-color: white !important;
+    cursor: text !important;
+}
+
+.drag-drop-border {
+    border: dotted;
+    height: 150px;
+    margin: 10px 5px 5px 6px;
+    width: 98%;
+    padding: 10px;
+}

@@ -1,0 +1,16 @@
+{
+    "name": "file_upload",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.13.3",
+        "multer": "1.1.0",
+        "domutils": "1.5.1",
+        "domhandler": "2.3.0",
+        "fast-csv": "1.1.0",
+        "htmlparser2": "3.9.0",
+        "mongodb": "2.1.16",
+        "mongoose": "4.4.13",
+        "multer": "1.1.0",
+        "request": "2.72.0"
+    }
+}
