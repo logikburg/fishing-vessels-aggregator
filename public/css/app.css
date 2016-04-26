@@ -1,6 +1,10 @@
-/*!
+/*
  * @author: sandeep.mogla@gmail.com
  */
+
+* table {
+    font-size: 11px;
+}
 
 #header {
     width: 960px;
@@ -18,8 +22,18 @@ input[readonly] {
 
 .drag-drop-border {
     border: dotted;
+    border-width: thin;
     height: 150px;
-    margin: 10px 5px 5px 6px;
+    margin: 20px 5px 5px 6px;
     width: 98%;
     padding: 10px;
+}
+
+.modal-dialog {
+    margin: 10px auto;
+}
+
+.modal-body {
+    padding-top: 5px;
+    padding-bottom: 0px;
 }

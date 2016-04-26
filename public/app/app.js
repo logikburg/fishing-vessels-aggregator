@@ -2,7 +2,7 @@
  * 
  * author: sandeep.mogla@gmail.com
  */
-var app = angular.module('maritimeApp', ['ui.bootstrap']);
+var app = angular.module('maritimeApp', ['ui.bootstrap', 'ngFileUpload']);
 
 app.filter('startFrom', function () {
     return function (input, start) {
@@ -48,18 +48,12 @@ app.controller('mainCrtl', function ($scope, $http, $timeout, $modal, fileUpload
         console.log('opening pop up');
         var modalInstance = $modal.open({
             templateUrl: 'modalUpload.html',
-            controller: 'uploadCtrl',
-            scope: $scope
+            controller: 'uploadCtrl'
         });
     }
-
-    $scope.close = function () {
-        $modalInstance.dismiss('cancel');
-    };
-
 });
 
-app.controller('uploadCtrl', ['$scope', '$modalInstance', 'fileUpload', function ($scope, $modalInstance, fileUpload) {
+app.controller('uploadCtrl', function ($scope, $modalInstance, $timeout, Upload, fileUpload) {
     $scope.close = function () {
         $modalInstance.dismiss('cancel');
     };
@@ -74,7 +68,32 @@ app.controller('uploadCtrl', ['$scope', '$modalInstance', 'fileUpload', function
         fileUpload.uploadFileToUrl(file, uploadUrl);
     };
 
-}]);
+    $scope.uploadFiles = function (file, errFiles) {
+        $scope.f = file;
+        $scope.errFile = errFiles && errFiles[0];
+        if (file) {
+            file.upload = Upload.upload({
+                url: 'http://localhost:8081/api/upload',
+                data: {
+                    file: file
+                }
+            });
+
+            file.upload.then(function (response) {
+                $timeout(function () {
+                    file.result = response.data;
+                });
+            }, function (response) {
+                if (response.status > 0)
+                    $scope.errorMsg = response.status + ': ' + response.data;
+            }, function (evt) {
+                file.progress = Math.min(100, parseInt(100.0 *
+                    evt.loaded / evt.total));
+            });
+        }
+    }
+});
+
 
 app.service('fileUpload', ['$http', function ($http) {
     this.uploadFileToUrl = function (file, uploadUrl) {
@@ -108,7 +127,7 @@ app.directive('fileModel', ['$parse', function ($parse) {
 
             element.bind('change', function () {
                 scope.$apply(function () {
-                    modelSetter(scope, element[0].files[0]);
+                    modelSetter(scope.$parent, element[0].files[0]);
                 });
             });
         }
