@@ -1,0 +1,747 @@
+Participant,Vessel Flag,Vessel Name,Registration,Call Sign,IMO Number,Type of Vessel,Gross Tonnage,Gross Registered Tonnage,Fishing Methods,Status,Authorised Start Date,Authorised End Date
+"Australia","AUS","ATLAS COVE","O511","VHJT",9171008,"09.0.0 Multipurpose Vessels",,1772.00,"09.4.0 LLD  , 03.2.9 TM   , 03.1.9 TB   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Australia","AUS","CORINTHIAN BAY","O510","VJN4779",9188960,"07.2.0 Liners - Longliners",,1155.00,"09.4.0 LLD  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Australia","AUS","DIANA","O588","VJT6259",8692548,"07.2.0 Liners - Longliners",,155.00,"09.3.0 LLS  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Australia","AUS","ISLA EDEN","VJN4147","VJN4147",9111694,"07.2.0 Liners - Longliners",1362.00,1362.00,"09.4.0 LLD  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Australia","AUS","OCEAN EXPLORER","FWFP","VMQ8729",,"07.2.0 Liners - Longliners",,85.00,"09.3.0 LLS  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Australia","AUS","PETUNA ENDEAVOUR","SB3","VM4869",7817581,"07.2.0 Liners - Longliners",,200.00,"09.3.0 LLS  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Australia","AUS","SAXON ONWARD","A182","VJT5748",5314987,"01.2.0 Trawlers - Stern Trawlers",209.00,220.00,"03.1.2 OTB  , 03.2.1 OTM  , 08.9.0 FIX  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chile","CHL","AGUILA REAL","2364","cb2849",,"02.1.0 Seiners - Purse Seiners",249.75,,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","ALBIMER","2684","cb4139",8903741,"02.1.0 Seiners - Purse Seiners",583.16,,"02.9.0 SX   ","Authorised  ",9/04/2009 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ALCANTARA","2878","cb3834",,"02.1.0 Seiners - Purse Seiners",579.00,,"02.9.0 SX   ","Authorised  ",2/05/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ALCONES","2580","cb3854",5390022,"02.1.0 Seiners - Purse Seiners",564.20,,"02.9.0 SX   ","Authorised  ",22/07/2009 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ALERCE","2261","cb2121",7112254,"02.1.0 Seiners - Purse Seiners",,243.61,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ANGAMOS 1","2484","cb3290",,"02.1.0 Seiners - Purse Seiners",267.04,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","ANGAMOS 2","2486","cb3291",,"02.1.0 Seiners - Purse Seiners",267.04,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","ANGAMOS 3","2739","cb3010",,"02.1.0 Seiners - Purse Seiners",315.46,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","ANGAMOS 4","2633","cb3696",8965749,"02.1.0 Seiners - Purse Seiners",265.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ANGAMOS 9","2716","cb4591",8965775,"02.1.0 Seiners - Purse Seiners",290.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ANTARCTIC BAY","3165","cb9738",9092240,"07.2.0 Liners - Longliners",985.00,,"09.5.0 LL   ","Authorised  ",11/06/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ARAUCO I","2621","cb4071",5229936,"02.1.0 Seiners - Purse Seiners",802.87,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","AREQUIPA IV","2321","cb2307",7129295,"02.1.0 Seiners - Purse Seiners",,268.76,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","AREQUIPA VII","2322","cb2308",7031802,"02.1.0 Seiners - Purse Seiners",229.00,,"02.9.0 SX   ","Authorised  ",7/05/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ATACAMA IV","2607","cb3991",9007697,"02.1.0 Seiners - Purse Seiners",322.00,,"02.9.0 SX   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ATACAMA V","2821","cb5352",9073634,"02.1.0 Seiners - Purse Seiners",440.00,,"02.9.0 SX   ","Authorised  ",26/09/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","AUDAZ","2526","cb2515",8700747,"02.1.0 Seiners - Purse Seiners",512.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","AVENTURERO","2470","cb3232",8611403,"02.1.0 Seiners - Purse Seiners",512.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","BANDURRIA","2306","CB2273",7008506,"02.1.0 Seiners - Purse Seiners",287.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","BARRACUDA IV","2594","cb4034",8803317,"02.1.0 Seiners - Purse Seiners",500.15,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","BETANZOS","2351","cbtz",7310923,"01.2.0 Trawlers - Stern Trawlers",1438.00,,"03.1.9 TB   ","Authorised  ",20/04/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","BIO BIO","2196","cb3498",8966028,"02.1.0 Seiners - Purse Seiners",,208.96,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","BIOMAR III","2692","cb4529",7311745,"01.2.0 Trawlers - Stern Trawlers",623.00,,"03.1.9 TB   ","Authorised  ",23/05/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","BIOMAR IV","2846","cb5301",7525188,"02.1.0 Seiners - Purse Seiners",1037.00,,"02.9.0 SX   ","Authorised  ",23/05/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","BLANQUILLO","2623","cb4235",8803343,"02.1.0 Seiners - Purse Seiners",500.15,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","BONN","2827","cb5330",7715496,"02.1.0 Seiners - Purse Seiners",945.00,,"02.9.0 SX   ","Authorised  ",14/06/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","BRONCO","2856","cb5554",9124445,"02.1.0 Seiners - Purse Seiners",886.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","BUCANERO I","2920","cb5903",9148489,"02.1.0 Seiners - Purse Seiners",1533.00,,"02.9.0 SX   ","Authorised  ",9/01/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CABO DE HORNOS","3102","cb7960",7404372,"01.2.0 Trawlers - Stern Trawlers",2140.00,,"03.1.9 TB   ","Authorised  ",5/12/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CAMINA","2399","cb2913",,"02.1.0 Seiners - Purse Seiners",301.00,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CAROLINA III","2791","cb5222",9052563,"02.1.0 Seiners - Purse Seiners",728.00,,"02.9.0 SX   ","Authorised  ",19/12/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CAZADOR","3141","cb8503",9151046,"02.1.0 Seiners - Purse Seiners",1910.00,,"02.9.0 SX   ","Authorised  ",14/06/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CHIVILINGO I","2805","cb5129",9073206,"02.1.0 Seiners - Purse Seiners",762.00,,"02.9.0 SX   ","Authorised  ",3/10/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CHRISTINAS","1787","cb4204",,"07.2.0 Liners - Longliners",,48.22,"09.5.0 LL   ","Authorised  ",9/11/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CISNE BLANCO","2615","cb4108",7387392,"07.2.0 Liners - Longliners",536.85,,"09.5.0 LL   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","CISNE VERDE","2616","cb4109",7387366,"07.2.0 Liners - Longliners",531.38,,"09.5.0 LL   ","Authorised  ",27/09/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","CLAUDIA ALEJANDRA","2555","cb3699",8700735,"02.1.0 Seiners - Purse Seiners",437.00,,"02.9.0 SX   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","COBRA","2922","cb6027",9160695,"02.1.0 Seiners - Purse Seiners",1315.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","COCHA","1826","cb3495",,"01.2.0 Trawlers - Stern Trawlers",,86.00,"03.1.9 TB   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","COLCHANE","2707","cb4405",8915500,"02.1.0 Seiners - Purse Seiners",545.11,,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","COLLEN","2258","cb2685",,"02.1.0 Seiners - Purse Seiners",,315.63,"02.9.0 SX   ","Authorised  ",3/10/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","CORAL I","2774","cb4941",9044982,"02.1.0 Seiners - Purse Seiners",781.00,,"02.9.0 SX   ","Authorised  ",20/09/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CORMORAN","2270","cb2157",,"02.1.0 Seiners - Purse Seiners",243.00,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","CORPESCA 2","3275","CA3503",,"02.1.0 Seiners - Purse Seiners",536.00,,"02.9.0 SX   ","Authorised  ",20/01/2012 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","CORPESCA I","3010","cb6707",9173628,"02.1.0 Seiners - Purse Seiners",333.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","CORSARIO I","2910","cb5902",9148477,"02.1.0 Seiners - Purse Seiners",1533.00,,"02.9.0 SX   ","Authorised  ",9/01/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","COSTA GRANDE 1","2688","cb4359",9007740,"02.1.0 Seiners - Purse Seiners",348.00,,"02.9.0 SX   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","COSTA GRANDE 2","2272","cb3136",,"02.1.0 Seiners - Purse Seiners",,241.37,"02.9.0 SX   ","Authorised  ",3/10/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","COSTA GRANDE 3","2505","cb2633",,"02.1.0 Seiners - Purse Seiners",232.43,,"02.9.0 SX   ","Authorised  ",26/09/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","COSTA GRANDE 4","2506","cb3039",,"02.1.0 Seiners - Purse Seiners",232.43,,"02.9.0 SX   ","Authorised  ",26/09/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","DIEGO RAMIREZ","3146","cb9258",7336460,"01.2.0 Trawlers - Stern Trawlers",1758.00,,"03.1.9 TB   ","Authorised  ",5/12/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON ALFONSO","3217","cbds",9169251,"02.1.0 Seiners - Purse Seiners",1920.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON ANTONIO","2388","cb2312",8965804,"02.1.0 Seiners - Purse Seiners",267.57,,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON BORIS","2902","cb5968",9145504,"02.1.0 Seiners - Purse Seiners",1174.00,,"02.9.0 SX   ","Authorised  ",20/09/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON EDMUNDO","2117","cb3384",8965933,"02.1.0 Seiners - Purse Seiners",,194.06,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON EDMUNDO","2930","cb5797",9160918,"02.1.0 Seiners - Purse Seiners",1446.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON ERNESTO AYALA MARFIL","2481","cb3482",,"02.1.0 Seiners - Purse Seiners",324.21,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON GINO","2897","cb5976",9145487,"02.1.0 Seiners - Purse Seiners",332.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","DON JULIO","2870","cbdj",9114335,"02.1.0 Seiners - Purse Seiners",1397.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON MANUEL","2900","cb5989",9141560,"02.1.0 Seiners - Purse Seiners",1315.00,,"02.9.0 SX   ","Authorised  ",20/09/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON PETER","1987","cb3240",,"02.1.0 Seiners - Purse Seiners",,81.92,"02.9.0 SX   ","Authorised  ",20/08/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","DON TELESFORO","2742","cb4744",9031337,"02.1.0 Seiners - Purse Seiners",822.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DON TITO","2854","cb5527",9105827,"02.1.0 Seiners - Purse Seiners",800.00,,"02.9.0 SX   ","Authorised  ",20/09/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","DUQUECO","2819","cb5274",9083809,"02.1.0 Seiners - Purse Seiners",886.00,,"02.9.0 SX   ","Authorised  ",9/01/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ELENA'S","1788","cb4203",,"07.2.0 Liners - Longliners",,48.22,"09.5.0 LL   ","Authorised  ",30/08/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","EPERVA 44","2169","cb3537",8965971,"02.1.0 Seiners - Purse Seiners",,194.06,"02.9.0 SX   ","Authorised  ",20/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 46","2207","cb3539",8965983,"02.1.0 Seiners - Purse Seiners",184.00,,"02.9.0 SX   ","Authorised  ",27/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 48","2235","cb2208",8966030,"02.1.0 Seiners - Purse Seiners",,206.11,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 49","2236","cb3542",7212030,"02.1.0 Seiners - Purse Seiners",,225.66,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 50","2253","cb2118",7207176,"02.1.0 Seiners - Purse Seiners",,220.82,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 51","2254","cb2119",7117577,"02.1.0 Seiners - Purse Seiners",,290.00,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 52","2293","cb3419",8965969,"02.1.0 Seiners - Purse Seiners",,175.28,"02.9.0 SX   ","Authorised  ",20/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 56","2401","cb2543",,"02.1.0 Seiners - Purse Seiners",216.20,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","EPERVA 57","2422","cb2544",,"02.1.0 Seiners - Purse Seiners",235.48,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","EPERVA 58","2437","cb2868",8965684,"02.1.0 Seiners - Purse Seiners",201.56,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 60","2563","cb3788",8965725,"02.1.0 Seiners - Purse Seiners",201.56,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 61","2604","cb3970",8965751,"02.1.0 Seiners - Purse Seiners",270.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 62","2632","cb3971",8965763,"02.1.0 Seiners - Purse Seiners",270.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 63","2705","cb4587",8845638,"02.1.0 Seiners - Purse Seiners",480.00,,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 64","2798","cb5250",9101091,"02.1.0 Seiners - Purse Seiners",480.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 65","2874","cb5697",9111307,"02.1.0 Seiners - Purse Seiners",328.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","EPERVA 66","2935","cb5585",9161405,"02.1.0 Seiners - Purse Seiners",333.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ERIKA","3228","ca2823",8505460,"02.1.0 Seiners - Purse Seiners",1666.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ESTURION","2409","cb2697",,"02.1.0 Seiners - Purse Seiners",231.94,,"02.9.0 SX   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","FOCHE","2111","cb3496",,"01.2.0 Trawlers - Stern Trawlers",,84.09,"03.1.9 TB   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","FRANCISCO","2815","cb5058",9055943,"02.1.0 Seiners - Purse Seiners",799.80,,"02.9.0 SX   ","Authorised  ",1/04/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","FRIOSUR IX","2876","cb5735",8011718,"01.2.0 Trawlers - Stern Trawlers",930.00,,"03.1.9 TB   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","FRIOSUR VIII","2861","cb5643",8011720,"01.2.0 Trawlers - Stern Trawlers",930.00,,"03.1.9 TB   ","Authorised  ",7/05/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","FRIOSUR X","2965","cb4820",7913529,"01.2.0 Trawlers - Stern Trawlers",902.00,,"03.1.9 TB   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","GAVILAN","2274","cb2234",7015602,"02.1.0 Seiners - Purse Seiners",243.00,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","GENESIS II","3181","ca2094",,"02.1.0 Seiners - Purse Seiners",378.00,,"02.9.0 SX   ","Authorised  ",30/05/2008 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","GLOBALPESCA I","3086","cb7961",9262376,"07.2.0 Liners - Longliners",878.00,,"09.5.0 LL   ","Authorised  ",19/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","GLOBALPESCA II","3110","cb8364",9262388,"07.2.0 Liners - Longliners",1197.00,,"09.5.0 LL   ","Authorised  ",19/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","GLOBALPESCA III","3222","ca2527",9247900,"07.2.0 Liners - Longliners",1100.00,,"09.5.0 LL   ","Authorised  ",4/06/2009 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","GUALLATIRE","2726","cb4475",8845755,"02.1.0 Seiners - Purse Seiners",480.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","GUANAYE","2363","cb2762",7931258,"02.1.0 Seiners - Purse Seiners",249.75,,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","GUANAYE 2","2759","cb5009",9042594,"02.1.0 Seiners - Purse Seiners",626.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","HALCON","2267","cb2152",7103629,"02.1.0 Seiners - Purse Seiners",287.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","HUAYQUIQUE","2044","cb3393",8965878,"02.1.0 Seiners - Purse Seiners",,193.06,"02.9.0 SX   ","Authorised  ",20/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","HURACAN","2667","cb4237",8903753,"02.1.0 Seiners - Purse Seiners",463.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ICALMA","2404","cb2809",7212042,"02.1.0 Seiners - Purse Seiners",226.98,,"02.9.0 SX   ","Authorised  ",20/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","INTREPIDO","2450","cb3088",8607983,"02.1.0 Seiners - Purse Seiners",512.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ISLA ORCAS","1868","cb3387",,"01.2.0 Trawlers - Stern Trawlers",,84.09,"03.1.9 TB   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","ISLA SOFIA","2636","cb4233",7222918,"07.2.0 Liners - Longliners",653.47,,"09.5.0 LL   ","Authorised  ",9/06/2009 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ISLUGA","2206","cb3424",8965995,"02.1.0 Seiners - Purse Seiners",182.19,,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","JAVIER","2814","cb5061",9050046,"02.1.0 Seiners - Purse Seiners",799.80,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","JOSEPH M. HAMWEE","2425","cb2999",8856663,"02.1.0 Seiners - Purse Seiners",192.42,,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","KINGS BAY","2830","cb5322",7705025,"02.1.0 Seiners - Purse Seiners",1197.00,,"02.9.0 SX   ","Authorised  ",9/01/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","LA HUAICA","2462","cb3060",8965701,"02.1.0 Seiners - Purse Seiners",201.56,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","LIBAS","2731","cb4698",9016947,"02.1.0 Seiners - Purse Seiners",759.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","LICANTEN","2730","cb2527",8818441,"02.1.0 Seiners - Purse Seiners",381.00,,"02.9.0 SX   ","Authorised  ",26/09/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","LIDER","2918","cb5938",9169237,"02.1.0 Seiners - Purse Seiners",1098.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","LIGRUNN","2863","cb5632",9064968,"02.1.0 Seiners - Purse Seiners",769.00,,"02.9.0 SX   ","Authorised  ",2/12/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","LIVILCAR","2367","cb2199",,"02.1.0 Seiners - Purse Seiners",,241.37,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","LOA 1","2276","cb2209",,"02.1.0 Seiners - Purse Seiners",,241.31,"02.9.0 SX   ","Authorised  ",26/09/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","LOA 2","2264","cb2210",,"02.1.0 Seiners - Purse Seiners",,241.37,"02.9.0 SX   ","Authorised  ",26/09/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","LOA 4","2339","cb2238",,"02.1.0 Seiners - Purse Seiners",,265.70,"02.9.0 SX   ","Authorised  ",26/09/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","LOA 5","2340","cb2239",,"02.1.0 Seiners - Purse Seiners",,266.30,"02.9.0 SX   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","LOA 7","2413","cb2889",,"02.1.0 Seiners - Purse Seiners",235.48,,"02.9.0 SX   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","LONCO","2924","cbln",9165138,"02.1.0 Seiners - Purse Seiners",1315.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","LONQUIMAY","1840","cb2566",,"01.2.0 Trawlers - Stern Trawlers",,81.92,"03.1.9 TB   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","MACK","2765","cb2625",9062063,"02.1.0 Seiners - Purse Seiners",799.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MALLECO","2786","cb5032",9061203,"02.1.0 Seiners - Purse Seiners",876.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MANUEL ROJAS","2356","cb2749",7120902,"02.1.0 Seiners - Purse Seiners",,293.50,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MAR DEL NORTE","2538","cb2758",8965660,"02.1.0 Seiners - Purse Seiners",175.22,,"02.9.0 SX   ","Authorised  ",20/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MAR DEL PLATA","2571","cb3829",8965737,"02.1.0 Seiners - Purse Seiners",201.56,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MAR DEL SUR","2591","cb2955",8965672,"02.1.0 Seiners - Purse Seiners",201.56,,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MAR TIRRENO","2648","cb2062",8965713,"02.1.0 Seiners - Purse Seiners",202.00,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MARIA IGNACIA II","2913","cb3934",8965854,"02.1.0 Seiners - Purse Seiners",464.70,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MARIA JOSE","2914","cb6001",9145499,"02.1.0 Seiners - Purse Seiners",1447.00,,"02.9.0 SX   ","Authorised  ",9/01/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MARLIN","2937","cb5506",8965787,"02.1.0 Seiners - Purse Seiners",333.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MARPRO I","2801","cb5215",9083782,"02.1.0 Seiners - Purse Seiners",812.00,,"02.9.0 SX   ","Authorised  ",6/04/2016 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MATIAS","2820","cb5060",9055955,"02.1.0 Seiners - Purse Seiners",799.80,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","MERO","2603","cb4072",8803329,"02.1.0 Seiners - Purse Seiners",500.15,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","OFICINA VIGO","2325","cb2266",,"02.1.0 Seiners - Purse Seiners",247.00,,"02.9.0 SX   ","Authorised  ",28/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","OGRI","2393","cb2943",6405563,"02.1.0 Seiners - Purse Seiners",208.18,,"02.9.0 SX   ","Authorised  ",23/05/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","ORDINAT","2712","cb4611",5270088,"02.1.0 Seiners - Purse Seiners",832.06,,"02.9.0 SX   ","Authorised  ",11/06/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PACHICA","2262","cb2154",7042722,"02.1.0 Seiners - Purse Seiners",,220.52,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PANIAHUE","2816","cb5273",9052599,"02.1.0 Seiners - Purse Seiners",820.00,,"02.9.0 SX   ","Authorised  ",31/10/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PANILONCO","2755","cb4827",9035228,"02.1.0 Seiners - Purse Seiners",883.00,,"02.9.0 SX   ","Authorised  ",20/06/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PARINA I","2487","cb3525",8616178,"02.1.0 Seiners - Purse Seiners",324.21,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PARINACOTA","2737","cb4474",9083029,"02.1.0 Seiners - Purse Seiners",480.00,,"02.9.0 SX   ","Authorised  ",20/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PATILLOS","2252","cb2120",7031773,"02.1.0 Seiners - Purse Seiners",,219.88,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PEHUENCO","2871","cbph",9124457,"02.1.0 Seiners - Purse Seiners",1253.00,,"02.9.0 SX   ","Authorised  ",9/01/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PELAGOS II","2751","cb4838",7222815,"01.2.0 Trawlers - Stern Trawlers",1085.00,,"03.1.9 TB   ","Authorised  ",9/11/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PELICANO","3209","ca2541",9105671,"02.1.0 Seiners - Purse Seiners",1475.00,,"02.9.0 SX   ","Authorised  ",9/01/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PELIKAN","2610","cb4031",7332414,"01.2.0 Trawlers - Stern Trawlers",613.70,,"03.1.9 TB   ","Authorised  ",30/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PILMAIQUEN I","2537","cb2912",8965828,"02.1.0 Seiners - Purse Seiners",464.70,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","POLARIS II","2941","cb6140",7827744,"01.2.0 Trawlers - Stern Trawlers",866.00,,"03.1.9 TB   ","Authorised  ",9/11/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PORTUGAL II","2019","cb2433",,"07.2.0 Liners - Longliners",,149.33,"09.5.0 LL   ","Authorised  ",27/08/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","PUCARA","2353","cb2201",,"02.1.0 Seiners - Purse Seiners",,273.00,"02.9.0 SX   ","Authorised  ",10/08/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","PUCHULDIZA","2233","cb2207",8966004,"02.1.0 Seiners - Purse Seiners",,206.11,"02.9.0 SX   ","Authorised  ",8/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PUERTO BALLENA","2512","cb2043",8617495,"07.2.0 Liners - Longliners",753.00,,"09.5.0 LL   ","Authorised  ",5/12/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PUERTO TORO","3277","CA3665",9348869,"07.2.0 Liners - Longliners",744.00,,"09.5.0 LL   ","Authorised  ",5/12/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","PUERTO WILLIAMS","3178","CB9917",7303140,"07.2.0 Liners - Longliners",653.47,,"09.5.0 LL   ","Authorised  ",5/12/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","QUERELEMA","2833","cb5103",9073646,"02.1.0 Seiners - Purse Seiners",1222.00,,"02.9.0 SX   ","Authorised  ",20/06/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","QUILPOLEMU","2747","cb4826",9001203,"02.1.0 Seiners - Purse Seiners",883.00,,"02.9.0 SX   ","Authorised  ",20/06/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","RAFAEL","2831","cb5059",9056416,"02.1.0 Seiners - Purse Seiners",799.80,,"02.9.0 SX   ","Authorised  ",7/05/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","RANQUILHUE","2839","cb5104",9082013,"02.1.0 Seiners - Purse Seiners",1356.00,,"02.9.0 SX   ","Authorised  ",20/06/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","RAPANUI","2879","cb5701",9123063,"02.1.0 Seiners - Purse Seiners",1189.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","RAULI","2266","cb2148",7103617,"02.1.0 Seiners - Purse Seiners",,243.61,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","RELAMPAGO","2570","cb3849",8800949,"02.1.0 Seiners - Purse Seiners",512.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","REÑACA","2355","cb2634",,"02.1.0 Seiners - Purse Seiners",275.76,,"02.9.0 SX   ","Authorised  ",20/09/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","ROBLE","2273","cb2149",7042734,"02.1.0 Seiners - Purse Seiners",248.00,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","SAGASCA","2700","cb4404",8915495,"02.1.0 Seiners - Purse Seiners",545.11,,"02.9.0 SX   ","Authorised  ",28/11/2008 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","SALMON","2613","cb4149",8803331,"02.1.0 Seiners - Purse Seiners",500.10,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","SAN JORGE I","2420","cb2890",,"02.1.0 Seiners - Purse Seiners",287.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","SAN JOSE","3140","cbjs",9184407,"02.1.0 Seiners - Purse Seiners",2005.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","SANTA IRENE","2382","cb2501",6617805,"02.1.0 Seiners - Purse Seiners",505.00,,"02.9.0 SX   ","Authorised  ",7/05/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","SANTA MARIA II","2899","cb4122",,"02.1.0 Seiners - Purse Seiners",839.00,,"02.9.0 SX   ","Authorised  ",20/09/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","SEIKO","2602","cb4104",6519182,"02.1.0 Seiners - Purse Seiners",468.05,,"02.9.0 SX   ","Authorised  ",2/05/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","SQUA","2387","cb2551",,"02.1.0 Seiners - Purse Seiners",232.67,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","TAMBO","2354","cb2202",,"02.1.0 Seiners - Purse Seiners",,241.37,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","TERRANOVA","2795","cb4956",9048213,"02.1.0 Seiners - Purse Seiners",919.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","TIL TIL","2197","cb3396",8966042,"02.1.0 Seiners - Purse Seiners",182.19,,"02.9.0 SX   ","Authorised  ",21/08/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","TOCONAO II","2482","cb3342",8965696,"02.1.0 Seiners - Purse Seiners",201.56,,"02.9.0 SX   ","Authorised  ",31/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","TORNADO","2888","cb5761",9141572,"02.1.0 Seiners - Purse Seiners",574.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","TOYITA","2857","cb5505",9108881,"02.1.0 Seiners - Purse Seiners",1334.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","TRUENO I","2690","cb4238",8917091,"02.1.0 Seiners - Purse Seiners",463.00,,"02.9.0 SX   ","Authorised  ",20/07/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","UNIONSUR","3112","cbus",8708957,"01.2.0 Trawlers - Stern Trawlers",4991.00,,"03.1.9 TB   ","Authorised  ",25/06/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","UNZEN","2587","cbun",8122684,"01.2.0 Trawlers - Stern Trawlers",2985.48,,"03.1.9 TB   ","Authorised  ",25/06/2007 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chile","CHL","VAMA II","2564","cb3729",,"01.2.0 Trawlers - Stern Trawlers",144.36,,"03.1.9 TB   ","Authorised  ",8/07/2009 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","VENTISQUERO","2906","cbvt",9143324,"02.1.0 Seiners - Purse Seiners",1447.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","VESTERVEG","3175","cbvg",9163013,"02.1.0 Seiners - Purse Seiners",1451.00,,"02.9.0 SX   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","VICHUQUEN II","2934","cbvh",9171668,"02.1.0 Seiners - Purse Seiners",1694.00,,"02.9.0 SX   ","Authorised  ",20/06/2007 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","VIGRI","2394","cb2944",5422930,"02.1.0 Seiners - Purse Seiners",208.18,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","VULCANO","2919","cb5939",9145516,"02.1.0 Seiners - Purse Seiners",1166.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","YAGAN","2777","cb4823",7414200,"02.1.0 Seiners - Purse Seiners",1450.00,,"02.9.0 SX   ","Authorised  ",6/04/2016 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Chile","CHL","YELCHO I","2867","cb5536",9111785,"02.1.0 Seiners - Purse Seiners",1196.00,,"02.9.0 SX   ","Authorised  ",1/01/2013 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"China","CHN","AN XING HAI","011224","BALE",8724339,"01.2.3 Trawlers - Stern Trawlers - Factory",6394.00,6394.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","CHANG AN 168","(LU)CHUAN DENG (JI)(2013)FT-200084 HAO","BZSF",,"07.3.0 Liners - Pole and Line Vessels",343.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","CHANG AN 268","(LU)CHUAN DENG (JI)(2013)FT-200085 HAO","BZSG",,"07.3.0 Liners - Pole and Line Vessels",343.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","CHANG AN 668","(LU)CHUAN DENG (JI)(2013)FT-200086 HAO","BZSD",,"07.3.0 Liners - Pole and Line Vessels",343.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","CHANG AN 998","(LU)CHUAN DENG (JI)(2013)FT-200087 HAO","BZSE",,"07.3.0 Liners - Pole and Line Vessels",343.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","CHANG SHENG","YG0200020112","BBJR",,"01.2.3 Trawlers - Stern Trawlers - Factory",3080.00,3080.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","CHANG TAI 809","(SU)CHUAN DENG(JI)(2014)YY-200003 HAO","BZU5N",,"07.3.0 Liners - Pole and Line Vessels",477.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","CHANG TAI 810","(SU?CHUAN DENG(JI)(2015)FT-200001HAO","BZV1X",,"07.3.0 Liners - Pole and Line Vessels",477.00,,"09.1.0 LHP  ","Authorised  ",5/09/2015 12:00:00 a.m.,19/03/2018 12:00:00 a.m.
+"China","CHN","CHANG TAI 811","(SU)CHUAN DENG(JI)(2015)FT-200002 HAO","BZV2X",,"07.3.0 Liners - Pole and Line Vessels",477.00,,"09.1.0 LHP  ","Authorised  ",5/09/2015 12:00:00 a.m.,19/03/2018 12:00:00 a.m.
+"China","CHN","CHANG TAI 812","(SU)CHUAN DENG(JI)(2014)FT-200004 HAO","BZU6N",,"07.3.0 Liners - Pole and Line Vessels",477.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","CHAO XING 801","(ZHE)CHUAN DENG (JI)(2014)FT-200039 HAO","BZ8UN",,"07.3.0 Liners - Pole and Line Vessels",825.00,,"09.0.0      ","Authorised  ",1/04/2010 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","DONG YU 1506","(ZHE)CHUAN DENG (JI)(2014)FT-200043 HAO","BKWZ2",,"07.3.0 Liners - Pole and Line Vessels",489.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","DONG YU 1507","(ZHE)CHUAN DENG (JI) (2013)FT-200172 HAO","BKXD2",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",19/05/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","DONG YU 1519","(ZHE)CHUAN DENG (JI)(2014)FT-200174 HAO","BZ8VK",,"07.3.0 Liners - Pole and Line Vessels",950.00,,"09.1.0 LHP  ","Authorised  ",21/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","FENG CHENG 102","(ZHE)CHUAN DENG (JI)(2011)FT-200107 HAO","BZ7UG",,"07.3.0 Liners - Pole and Line Vessels",499.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","FENG CHENG 103","(ZHE)CHUAN DENG (JI)(2011)FT-200111 HAO","BZ8UG",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","FENG CHENG 105","(ZHE)CHUAN  DENG (JI)(2015)FT-200051 HAO","BZ9UG",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",14/04/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","FENG HUI NO.16","(ZHE)CHUAN DENG (JI)(2013)FT-200181 HAO","BZ3UO",,"07.3.0 Liners - Pole and Line Vessels",511.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","FU XIN","(LU)CHUAN DENG (JI)(2012)FT-200051 HAO","BBCR8",,"07.3.0 Liners - Pole and Line Vessels",1105.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","FU YUAN 1","(LU)CHUAN DENG (JI)(2013)FT-200094 HAO","BITA",,"07.3.0 Liners - Pole and Line Vessels",810.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","FU YUAN 2","(LU)CHUAN DENG (JI)(2013)FT-200082 HAO","BITB",,"07.3.0 Liners - Pole and Line Vessels",810.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","FU YUAN 4","(LU)CHUAN DENG (JI)(2013)FT-200083 HAO","BITD",,"07.3.0 Liners - Pole and Line Vessels",810.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","FU YUAN YU 7880","(MIN)CHUAN DENG(JI) (2014)FT-200050HAO","BVSK7",,"07.3.0 Liners - Pole and Line Vessels",1497.00,1497.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","FU YUAN YU 7881","(MIN)CHUAN DENG(JI) (2014)FT-200051HAO","BVSL7",,"07.3.0 Liners - Pole and Line Vessels",1497.00,1497.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HAI DE LI 708","(ZHE)CHUAN DENG (JI)(2015)FT-200156 HAO","BZV6X",,"07.3.0 Liners - Pole and Line Vessels",660.00,,"09.1.0 LHP  ","Authorised  ",31/03/2016 12:00:00 a.m.,10/12/2020 11:59:59 p.m.
+"China","CHN","HAI DE LI 779","(ZHE)CHUAN DENG(QUAN)(2015) YY-200024HAO","BZTY4",,"07.3.0 Liners - Pole and Line Vessels",598.00,,"09.0.0      ","Authorised  ",13/04/2015 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","HAI FENG 1","?ZHE?CHUAN DENG?JI??2012?FT-200081 HAO","BZ5VC",,"07.3.0 Liners - Pole and Line Vessels",488.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAI FENG 2","?ZHE?CHUAN DENG?JI??2012?FT-200082 HAO","BZ6VC",,"07.3.0 Liners - Pole and Line Vessels",488.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAI FENG 3","?ZHE?CHUAN DENG?JI??2012?FT-200230 HAO","BZ1VU",,"07.3.0 Liners - Pole and Line Vessels",699.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAI FENG 4","?ZHE?CHUAN DENG?JI??2012?FT-200231 HAO","BZ2VU",,"07.3.0 Liners - Pole and Line Vessels",699.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAI FENG 7","(ZHE) CHUAN DENG (JI) (2014) FT-200226","BZUG",,"07.3.0 Liners - Pole and Line Vessels",496.00,496.00,"09.1.0 LHP  ","Authorised  ",18/03/2016 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HAI FENG LONG 2","(ZHE)CHUAN DENG (JI)(2015)FT-200145 HAO","BZV9U",,"07.3.0 Liners - Pole and Line Vessels",681.00,,"09.1.0 LHP  ","Authorised  ",22/03/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","HAI LI 18","(ZHE)CHUAN DENG (JI)(2014)FT-200208 HAO","BZU6O",,"07.3.0 Liners - Pole and Line Vessels",1597.00,,"09.1.0 LHP  ","Authorised  ",6/11/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HAI LI 8","(ZHE)CHUAN DENG (JI)(2012)FT-200254 HAO","BZ3VU",,"07.3.0 Liners - Pole and Line Vessels",1496.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAI ZHI XING 801","(ZHE)CHUAN DENG (JI)(2011)PT-200003 HAO","BZ4VH",,"07.3.0 Liners - Pole and Line Vessels",1300.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAI ZHI XING 802","(ZHE)CHUAN DENG (JI)(2011)PT-200004 HAO","BZ5VH",,"07.3.0 Liners - Pole and Line Vessels",1300.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAI ZHI XING 803","(ZHE)CHUAN DENG (JI)(2011)PT-200005 HAO","BZ6VH",,"07.3.0 Liners - Pole and Line Vessels",1300.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAI ZHI XING 805","(ZHE)CHUAN DENG (JI)(2011)PT-200007 HAO","BZ2VH",,"07.3.0 Liners - Pole and Line Vessels",1300.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HAN YI 21","(ZHE)CHUAN DENG (JI)(2015)FT-200102HAO","BZU6R",,"07.3.0 Liners - Pole and Line Vessels",686.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","HAN YI 3","(ZHE)CHUAN  DENG (JI)(2015)FT-200146HAO","BZ8VI",,"07.3.0 Liners - Pole and Line Vessels",616.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","HAN YI 37","(ZHE)CHUAN DENG (JI)(2014)FT-200081 HAO","BZV8N",,"07.3.0 Liners - Pole and Line Vessels",300.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","HAN YI 6","(ZHE)CHUAN DENG (JI)(2015)FT-200038HAO","BZU5R",,"07.3.0 Liners - Pole and Line Vessels",545.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","HAN YI 7","(ZHE)CHUAN DENG (JI)(2011)FT-200015 HAO","BZ7VD",,"07.3.0 Liners - Pole and Line Vessels",955.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","HAN YI 788","(ZHE)CHUAN DENG(JI)(2015)FT-200007","BZ4VB",,"07.3.0 Liners - Pole and Line Vessels",491.00,,"09.0.0      ","Authorised  ",29/02/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","HAN YI 8","(ZHE)CHUAN  DENG (JI)(2015)FT-200147HAO","BZ9VI",,"07.3.0 Liners - Pole and Line Vessels",616.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","HAN YI 899","(ZHE)CHUAN DENG (JI)(2012)FT-200272 HAO","BZ5VV",,"07.3.0 Liners - Pole and Line Vessels",495.00,,"09.0.0      ","Authorised  ",1/07/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HONG DA 1","(ZHE)CHUAN DENG (JI)(2012)FT-200181 HAO","BZ1VM",,"07.3.0 Liners - Pole and Line Vessels",1322.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HONG DA 17","(ZHE)CHUAN DENG (JI)(2012)FT-200182 HAO","BZ3VM",,"07.3.0 Liners - Pole and Line Vessels",1322.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HONG DA 18","(ZHE)CHUAN DENG (JI)(2012)FT-200183 HAO","BZ4VM",,"07.3.0 Liners - Pole and Line Vessels",1322.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HONG DA 2","(ZHE)CHUAN DENG (JI)(2012)FT-200184 HAO","BZ2VM",,"07.3.0 Liners - Pole and Line Vessels",1322.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HONG PU 1","(ZHE)CHUAN DENG (JI)(2015)FT-200155 HAO","BZV7V",,"07.1.0 Liners - Handliners",611.00,,"09.1.0 LHP  ","Authorised  ",16/02/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","HONG PU 57","(ZHE)CHUAN DENG (JI)(2015)FT-200120 HAO","BZV1W",,"07.1.0 Liners - Handliners",611.00,,"09.1.0 LHP  ","Authorised  ",16/02/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","HONG RUN 16","(ZHE) CHUAN DENG (JI) (2015)FT-200055","BZV6S",,"07.3.0 Liners - Pole and Line Vessels",542.00,,"09.1.0 LHP  ","Authorised  ",27/05/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","HONG RUN 58","(ZHE)CHUAN DENG(JI)(2015)FT-200105","BZ2UV",,"07.3.0 Liners - Pole and Line Vessels",660.00,,"09.0.0      ","Authorised  ",29/02/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","HONG RUN 8","(ZHE)CHUAN DENG (JI)(2012)FT-200032 HAO","BZ7VI",,"07.3.0 Liners - Pole and Line Vessels",1910.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HU SHUN YU 06","(HU)CHUAN DENG (JI)(2014)FT-200013 HAO","BZU2M",,"07.3.0 Liners - Pole and Line Vessels",1253.00,1253.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HU SHUN YU 07","(HU)CHUAN DENG (JI)(2014)FT-200014 HAO","BZU3M",,"07.3.0 Liners - Pole and Line Vessels",1253.00,1253.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HU SHUN YU 08","(HU)CHUAN DENG (JI)(2014)FT-200015 HAO","BZU4M",,"07.3.0 Liners - Pole and Line Vessels",1253.00,1253.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HU SHUN YU 809","(ZHE)CHUAN DENG (JI)(2014)FT-200188HAO","BZ1VT",,"07.3.0 Liners - Pole and Line Vessels",1500.00,,"09.0.0      ","Authorised  ",31/10/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HU YU 906","(HU)CHUAN DENG (JI)(2013)FT-200011 HAO","BIUE",,"07.3.0 Liners - Pole and Line Vessels",668.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HU YU 907","(HU)CHUAN DENG (JI)(2013)FT-200012 HAO","BIZA",8649565,"07.3.0 Liners - Pole and Line Vessels",1273.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HU YU 908","(HU)CHUAN DENG (JI)(2013)FT-200013 HAO","BIZB",8649577,"07.3.0 Liners - Pole and Line Vessels",1273.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HU YU 961","(HU)CHUAN DENG(JI)(2013)FT-200009 HAO","BZU6E",,"07.3.0 Liners - Pole and Line Vessels",1009.00,,"09.0.0      ","Authorised  ",2/01/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HU YU 962","(HU)CHUAN DENG(JI)(2013)FT-200010 HAO","BZU7E",,"07.3.0 Liners - Pole and Line Vessels",1004.00,,"09.0.0      ","Authorised  ",2/01/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HUA LI 16","(ZHE)CHUAN DENG (JI)(2013)FT-200150 HAO","BZ4UV",,"07.3.0 Liners - Pole and Line Vessels",942.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HUA LI 17","(ZHE)CHUAN DENG(JI)(2015)FT-200008","BZ4VV",,"07.3.0 Liners - Pole and Line Vessels",752.00,,"09.1.0 LHP  ","Authorised  ",29/02/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","HUA LI 18","(ZHE)CHUAN DENG (JI)(2011)FT-200124 HAO","BZ6VN",,"07.3.0 Liners - Pole and Line Vessels",950.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HUA LI 19","(ZHE)CHUAN DENG (JI)(2011)FT-200123 HAO","BZ7VN",,"07.3.0 Liners - Pole and Line Vessels",950.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HUA LI 8","(ZHE)CHUAN DENG (JI)(2014)FT-200238HAO","BZU7N",,"07.3.0 Liners - Pole and Line Vessels",1275.00,1275.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","HUA YING 1","(ZHE)CHUAN DENG (JI)(2013)FT-200159 HAO","BZ3VD",,"07.3.0 Liners - Pole and Line Vessels",946.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HUA YING 209","(ZHE)CHUAN DENG (JI)?2012?FT-200051 HAO","BZ6VR",,"07.3.0 Liners - Pole and Line Vessels",731.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HUA YING 217","(ZHE)CHUAN DENG (JI)?2012?FT-200052 HAO","BZ7VR",,"07.3.0 Liners - Pole and Line Vessels",731.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HUA YING 261","(ZHE)CHUAN DENG (JI)?2012?FT-200159 HAO","BZ4UD",,"07.3.0 Liners - Pole and Line Vessels",482.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","HUA YING 58","(ZHE)CHUAN DENG (JI)(2013)FT-200140HAO","BZV1K",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,17/08/2017 12:00:00 a.m.
+"China","CHN","HUA YING 803","(ZHE)CHUAN DENG (JI)(2013)FT-200138HAO","BZV3K",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,17/08/2017 12:00:00 a.m.
+"China","CHN","HUA YING 809","(ZHE)CHUAN DENG (JI)?2013?FT-200137 HAO","BZV4K",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HUA YING 811","(ZHE)CHUAN DENG (JI)?2013?FT-200136 HAO","BZV5K",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HUA YING 817","(ZHE)CHUAN DENG (JI)(2013)FT-200142HAO","BZV7K",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,17/08/2017 12:00:00 a.m.
+"China","CHN","HUA YING 818","(ZHE)CHUAN DENG (JI)(2013)FT-200144HAO","BZV8K",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,11/08/2017 12:00:00 a.m.
+"China","CHN","HUA YING 819","(ZHE)CHUAN DENG (JI)(2013)FT-200143HAO","BZV9K",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,17/08/2017 12:00:00 a.m.
+"China","CHN","HUA YING 87","(ZHE)CHUAN DENG (JI)?2013?FT-200141 HAO","BZV2K",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","HUA YING NO.207","(ZHE)CHUAN DENG (JI)?2014?FT-200052 HAO","BZ4UM",,"07.3.0 Liners - Pole and Line Vessels",491.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 1","(ZHE)CHUAN DENG(QUAN)(2012) YY-200027HAO","BZ8VB",,"07.3.0 Liners - Pole and Line Vessels",1305.00,,"09.0.0      ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 11","(ZHE)CHUAN DENG(QUAN)(2012) YY-200064HAO","BZ8VH",,"07.3.0 Liners - Pole and Line Vessels",998.00,,"09.0.0      ","Authorised  ",30/09/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 12","(ZHE)CHUAN DENG(QUAN)(2012) YY-200065HAO","BZ9VH",,"07.3.0 Liners - Pole and Line Vessels",998.00,,"09.0.0      ","Authorised  ",30/09/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 15","(ZHE)CHUAN DENG(QUAN)(2012) YY-200066HAO","BZ1VI",,"07.3.0 Liners - Pole and Line Vessels",998.00,,"09.0.0      ","Authorised  ",30/09/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 16","(ZHE)CHUAN DENG(QUAN)(2012) YY-200067HAO","BZ2VI",,"07.3.0 Liners - Pole and Line Vessels",998.00,,"09.0.0      ","Authorised  ",30/09/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 17","(ZHE)CHUAN DENG (JI)(2014)FT-200137 HAO","BZV1M",,"07.3.0 Liners - Pole and Line Vessels",965.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","JIA DE 18","(ZHE)CHUAN DENG (JI)(2014)FT-200138 HAO","BZV2M",,"07.3.0 Liners - Pole and Line Vessels",965.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","JIA DE 2","(ZHE)CHUAN DENG(QUAN)(2012) YY-200030HAO","BZ9VB",,"07.3.0 Liners - Pole and Line Vessels",1305.00,,"09.0.0      ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 21","(ZHE)CHUAN DENG (JI)(2014)FT-200139HAO","BZV3M",,"07.3.0 Liners - Pole and Line Vessels",965.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","JIA DE 22","(ZHE)CHUAN DENG (JI)(2014)FT-200140 HAO","BZV4M",,"07.3.0 Liners - Pole and Line Vessels",965.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","JIA DE 5","(ZHE)CHUAN DENG (JI)(2014)FT-200082HAO","BZ1VC",,"07.3.0 Liners - Pole and Line Vessels",1305.00,,"09.0.0      ","Authorised  ",11/08/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 6","(ZHE)CHUAN DENG(QUAN)(2012) YY-200029HAO","BZ2VC",,"07.3.0 Liners - Pole and Line Vessels",1305.00,,"09.0.0      ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 7","(ZHE)CHUAN DENG(QUAN)(2012) YY-200028HAO","BZ3VC",,"07.3.0 Liners - Pole and Line Vessels",1305.00,,"09.0.0      ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIA DE 8","(ZHE)CHUAN DENG(QUAN)(2012) YY-200031HAO","BZ4VC",,"07.3.0 Liners - Pole and Line Vessels",1305.00,,"09.0.0      ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIN HAI 616","(ZHE?CHUAN DENG(JI)(2015)FT-200023HAO","BZ3UN",,"07.3.0 Liners - Pole and Line Vessels",957.00,957.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 701","(ZHE?CHUAN DENG(JI)(2015)FT-200009HAO","BZ2UK",,"07.3.0 Liners - Pole and Line Vessels",760.00,760.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 711","?ZHE?CHUAN DENG(JI)(2014)FT-200233HAO","BZ9VF",,"07.3.0 Liners - Pole and Line Vessels",727.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","JIN HAI 715","(ZHE)CHUAN DENG (JI)(2015)FT-200154 HAO","BZ2UJ",,"07.1.0 Liners - Handliners",543.00,,"09.1.0 LHP  ","Authorised  ",16/02/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","JIN HAI 716","(ZHE)CHUAN DENG (JI)(2015)FT-200109HAO","BZ1UK",,"07.3.0 Liners - Pole and Line Vessels",543.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 718","(ZHE)CHUAN DENG (JI)(2015)FT-200110HAO","BKXJ2",,"07.3.0 Liners - Pole and Line Vessels",543.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 728","(ZHE)CHUAN DENG (JI)(2015)FT-200097HAO","BZ3UD",,"07.3.0 Liners - Pole and Line Vessels",543.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 767","(ZHE)CHUAN DENG (JI)(2015)FT-200103HAO","BZUG7",,"07.3.0 Liners - Pole and Line Vessels",546.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 771","(ZHE)CHUAN DENG (JI)(2015)FT-200119HAO","BZ8UJ",,"07.3.0 Liners - Pole and Line Vessels",543.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 777","(ZHE)CHUAN DENG (JI)(2015)FT-200046HAO","BZUG8",,"07.3.0 Liners - Pole and Line Vessels",471.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 788","(ZHE)CHUAN DENG (JI)(2015)FT-200098HAO","BZUH8",,"07.3.0 Liners - Pole and Line Vessels",543.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","JIN HAI 799","?ZHE?CHUAN DENG(JI)(2015)FT-200152HAO","BZ8VC",,"07.3.0 Liners - Pole and Line Vessels",492.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","JIN HAI 824","?ZHE?CHUAN DENG(JI)(2014)FT-200234HAO","BZ1VG",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","JIN HAI 829","(ZHE)CHUAN DENG (JI)(2014)FT-200161 HAO","BZ2VG",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIN HAI 856","(ZHE)CHUAN DENG (JI)(2014)FT-200163 HAO","BZ3VG",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIN HAI 858","?ZHE?CHUAN DENG(JI)(2014)FT-200236HAO","BZ5VB",,"07.3.0 Liners - Pole and Line Vessels",457.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","JIN HAI 866","(ZHE)CHUAN DENG (JI)(2015)FT-200121 HAO","BZU4R",,"07.1.0 Liners - Handliners",542.00,,"09.1.0 LHP  ","Authorised  ",16/02/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","JIN HAI 868","(ZHE)CHUAN DENG (JI)(2014)FT-200159 HAO","BZ4VG",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIN HAI 878","(ZHE)CHUAN DENG (JI)(2014)FT-200160 HAO","BZ5VG",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIN HAI 886","(ZHE)CHUAN DENG (JI)(2014)FT-200166 HAO","BZ6VG",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIN HAI 888","?ZHE?CHUAN DENG(JI)(2014)FT-200235HAO","BZ3VI",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","JIN HAI 898","(ZHE)CHUAN DENG (JI)(2012)FT-200243 HAO","BZ8VF",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JIN HAI YANG 1","(ZHE)CHUAN  DENG (JI)(2014)FT-200150 HAO","BZ8VL",,"07.3.0 Liners - Pole and Line Vessels",954.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","JIN HAI YANG 2","(ZHE)CHUAN  DENG (JI)(2014)FT-200152 HAO","BZ9VL",,"07.3.0 Liners - Pole and Line Vessels",954.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","JING LU 7 HAO","(LU)CHUAN DENG (JI)(2012)FT-200015 HAO","BZZT9",,"07.3.0 Liners - Pole and Line Vessels",1408.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JING YUAN 601","(LU)CHUAN DENG (JI)(2011)FT-200009 HAO","BZZT2",,"07.3.0 Liners - Pole and Line Vessels",1204.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JING YUAN 608","(LU)CHUAN DENG (JI)(2013)FT-200208 HAO","BZZT7",,"07.3.0 Liners - Pole and Line Vessels",1372.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","JING YUAN 616","(LU)CHUAN DENG (JI)(2014)FT-200090 HAO","BZSF2",9768291,"07.3.0 Liners - Pole and Line Vessels",1419.00,1419.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","JING YUAN 618","(LU)CHUAN DENG (JI)(2014)FT-200091 HAO","BZSF3",9768306,"07.3.0 Liners - Pole and Line Vessels",1419.00,1419.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","KAI FU HAO","000000092153","BIWY",8907022,"01.2.3 Trawlers - Stern Trawlers - Factory",7671.00,7671.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","KAI LI","000000092156","BIWV",8607244,"01.2.3 Trawlers - Stern Trawlers - Factory",7847.00,7847.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","KAI SHUN","000000090084","BIWZ",8607268,"01.2.3 Trawlers - Stern Trawlers - Factory",7847.00,7847.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","KAI YU","000000092155","BIWU",8907072,"01.2.3 Trawlers - Stern Trawlers - Factory",7671.00,7671.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LIAN XING HAI","011122","BAWV",7817452,"01.2.3 Trawlers - Stern Trawlers - Factory",4630.00,4630.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LIAO JIN YU 88","(ZHE)CHUANDENG(JI)(2015)FT-200079","BZ9UO",,"07.3.0 Liners - Pole and Line Vessels",590.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LIAO YU 1 HAO","(LIAO)CHUAN DENG (JI) (2011) FT-200001 HAO","BZYL",,"07.3.0 Liners - Pole and Line Vessels",1198.00,,"09.0.0      ","Authorised  ",18/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LIAO YU 2 HAO","(LIAO)CHUAN DENG (JI) (2011) FT-200002 HAO","BZYN",,"07.3.0 Liners - Pole and Line Vessels",1198.00,,"09.0.0      ","Authorised  ",18/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LIAO YU 5","(LIAO)CHUAN DENG (JI) (2011) FT-200066 HAO","BAMB",,"07.3.0 Liners - Pole and Line Vessels",921.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LIAO YU 6","(LIAO)CHUAN DENG (JI) (2011) FT-200067 HAO","BAMC",,"07.3.0 Liners - Pole and Line Vessels",921.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LIAO YU 8","(LIAO)CHUAN DENG(JI)(2014) FT-200043HAO","BZSF8",,"07.3.0 Liners - Pole and Line Vessels",1419.00,1419.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","LIAO YU 9","(LIAO)CHUAN DENG (JI)(2014)FT-200044 HAO","BZSF9",,"07.3.0 Liners - Pole and Line Vessels",1419.00,1419.00,"09.1.0 LHP  ","Authorised  ",3/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LONGFA","JI2014-200028","BZZQ7",8607115,"01.2.3 Trawlers - Stern Trawlers - Factory",7765.00,7765.00,"03.2.1 OTM  ","Authorised  ",13/05/2015 12:00:00 a.m.,24/04/2019 11:59:59 p.m.
+"China","CHN","LONGTENG","(JI)CHUAN DENG(JI)(2014)FT-200023HAO","BZZQ6",8607373,"01.2.3 Trawlers - Stern Trawlers - Factory",7765.00,7765.00,"03.2.1 OTM  ","Authorised  ",8/04/2015 12:00:00 a.m.,9/04/2019 11:59:59 p.m.
+"China","CHN","LU HUANG YUAN YU 115","(LU)CHUAN DENG(JI)(2014)FT-200060 HAO","BZTE6",9752929,"07.3.0 Liners - Pole and Line Vessels",1655.00,1655.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","LU HUANG YUAN YU 116","(LU)CHUAN DENG(JI)(2014)FT-200059 HAO","BZTE7",9752931,"07.3.0 Liners - Pole and Line Vessels",1655.00,1655.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","LU HUANG YUAN YU 117","(LU)CHUAN DENG(JI)(2014)FT-200130 HAO","BZTE8",,"07.3.0 Liners - Pole and Line Vessels",1655.00,1655.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","LU HUANG YUAN YU 118","(LU)CHUAN DENG(JI)(2014)FT-200131 HAO","BZTE9",9769556,"07.3.0 Liners - Pole and Line Vessels",1655.00,1655.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","LU RONG YU 2682","(LU)CHUAN DENG (JI)(2013) FT-200216 HAO","412692720",,"07.3.0 Liners - Pole and Line Vessels",233.00,,"09.1.0 LHP  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","LU RONG YU2660","(LU)CHUAN DENG (JI)(2013) FT-100033 HAO","412328210",,"07.3.0 Liners - Pole and Line Vessels",247.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LU RONG YUAN YU 179","(LU)CHUAN DENG(JI) (2014)FT-200092 HAO","BCFC4",,"07.3.0 Liners - Pole and Line Vessels",1673.00,1673.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","LU RONG YUAN YU 279","(LU)CHUAN DENG(JI) (2014)FT-200093 HAO","BCFC5",,"07.3.0 Liners - Pole and Line Vessels",1673.00,1673.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","LU RONG YUAN YU 808","(LU)CHUAN DENG(JI)?2014?FT-200087","BZSV8",,"07.3.0 Liners - Pole and Line Vessels",1497.00,509.00,"09.1.0 LHP  ","Authorised  ",28/04/2015 12:00:00 a.m.,17/08/2019 12:00:00 a.m.
+"China","CHN","LU RONG YUAN YU 809","(LU)CHUAN DENG(JI)?2014?FT-200088","BZSV9",,"07.3.0 Liners - Pole and Line Vessels",1497.00,509.00,"09.1.0 LHP  ","Authorised  ",28/04/2015 12:00:00 a.m.,17/08/2019 12:00:00 a.m.
+"China","CHN","LU RONG YUAN YU YUN001","(LU)CHUAN DENG(JI)?2014?FT-200046","BZSU",,"12.0.0 Fish Carriers",2217.00,716.00,"","Authorised  ",28/04/2015 12:00:00 a.m.,20/02/2019 11:59:59 p.m.
+"China","CHN","LU WEI YUAN YU 979","(LU)CHUAN DENG (JI)(2015)FT-200001HAO","BBLM4",,"07.3.0 Liners - Pole and Line Vessels",1300.00,,"09.0.0      ","Authorised  ",6/03/2015 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","LU WEI YUAN YU 989","(LU)CHUAN DENG (JI)(2015)FT-200002HAO","BBLM5",,"07.3.0 Liners - Pole and Line Vessels",1300.00,,"09.0.0      ","Authorised  ",6/03/2015 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","LU YAN YUAN YU 010","(LU)CHUAN DENG (JI)(2014)FT-200001 HAO","BZZS",,"07.3.0 Liners - Pole and Line Vessels",950.00,,"09.0.0      ","Authorised  ",17/01/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LU YAN YUAN YU 011","(LU)CHUAN DENG (JI)(2014)FT-200002 HAO","BZZT",,"07.3.0 Liners - Pole and Line Vessels",950.00,,"09.0.0      ","Authorised  ",17/01/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","LU YAN YUAN YU 016","(LU)CHUAN DENG (JI)(2015)FT-200046 HAO","BZSO2",,"07.3.0 Liners - Pole and Line Vessels",782.00,,"09.0.0      ","Authorised  ",1/07/2015 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","LU YAN YUAN YU 017","(LU)CHUAN DENG (JI)(2015)FT-200019 HAO","BZSO8",,"07.3.0 Liners - Pole and Line Vessels",1096.00,,"09.0.0      ","Authorised  ",1/09/2015 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","MING DA","(ZHE)CHUAN DENG(JI)(2013)FT-200119 HAO","BKVC8",,"07.3.0 Liners - Pole and Line Vessels",971.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING HUA","(ZHE)CHUAN DENG(JI)(2013)FT-200092 HAO","BZ7UI",,"07.3.0 Liners - Pole and Line Vessels",1273.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING MAO","(ZHE)CHUAN DENG(JI)(2013)FT-200093 HAO","BZ8UI",,"07.3.0 Liners - Pole and Line Vessels",1273.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING WANG","(ZHE)CHUAN DENG(JI)(2012)FT-200056 HAO","BKUA",,"07.3.0 Liners - Pole and Line Vessels",971.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING XIANG 801","(ZHE)CHUAN DENG (JI)(2012)FT-200214 HAO","BZ9VC",,"07.3.0 Liners - Pole and Line Vessels",942.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING XIANG 802","(ZHE)CHUAN DENG (JI)(2012)FT-200227 HAO","BZ1VD",,"07.3.0 Liners - Pole and Line Vessels",949.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING XIANG 803","(ZHE)CHUAN DENG (JI)(2012)FT-200226 HAO","BZ2VD",,"07.3.0 Liners - Pole and Line Vessels",949.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING XIANG 807","(ZHE)CHUAN  DENG (JI)(2015)FT-200050 HAO","BZ7VC",,"07.3.0 Liners - Pole and Line Vessels",477.00,,"09.0.0      ","Authorised  ",14/04/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","MING XIANG 809","(ZHE)CHUAN DENG (JI)(2014)FT-200129 HAO","BZ2VN",,"07.3.0 Liners - Pole and Line Vessels",718.00,,"09.0.0      ","Authorised  ",3/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING XIANG 816","(ZHE)CHUAN DENG (JI)(2012)FT-200077 HAO","BZ3VN",,"07.3.0 Liners - Pole and Line Vessels",732.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING XIANG 817","(ZHE)CHUAN DENG (JI)(2014)FT-200151 HAO","BZ4VN",,"07.3.0 Liners - Pole and Line Vessels",718.00,,"09.0.0      ","Authorised  ",3/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING XIANG 857","(ZHE)CHUAN DENG(JI)(2015)FT-200112","BZV8U",,"07.3.0 Liners - Pole and Line Vessels",709.00,,"09.1.0 LHP  ","Authorised  ",1/09/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","MING XING","(ZHE)CHUAN DENG(JI)(2012)FT-200057 HAO","BKVA8",,"07.3.0 Liners - Pole and Line Vessels",971.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING YUAN","(ZHE)CHUAN DENG(JI)(2012)FT-200054 HAO","BKVB8",,"07.3.0 Liners - Pole and Line Vessels",971.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","MING ZHOU 6","(ZHE)CHUAN  DENG (JI)(2013)FT-200040 HAO","BZ8VN",,"07.3.0 Liners - Pole and Line Vessels",946.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","MING ZHOU 622","(ZHE)CHUAN DENG(JI)(2015)FT-200082","BZV1U",,"07.3.0 Liners - Pole and Line Vessels",552.00,,"09.1.0 LHP  ","Authorised  ",18/06/2015 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","MING ZHOU 8","(ZHE)CHUAN  DENG (JI)(2013)FT-200041 HAO","BZ9VN",,"07.3.0 Liners - Pole and Line Vessels",946.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 1","(ZHE)CHUAN  DENG (JI)(2014)FT-200146 HAO","BZ6VB",,"07.3.0 Liners - Pole and Line Vessels",453.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 11","(ZHE)CHUAN DENG (JI)(2012)FT-200177 HAO","BZ3VL",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI 12","(ZHE)CHUAN DENG (JI)(2014)FT-200074 HAO","BZV2O",,"07.3.0 Liners - Pole and Line Vessels",470.00,,"09.0.0      ","Authorised  ",11/06/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 16","(ZHE)CHUAN  DENG (JI)(2014)FT-200065 HAO","BZ5VQ",,"07.3.0 Liners - Pole and Line Vessels",735.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 17","(ZHE)CHUAN DENG (JI)(2013)FT-200166 HAO","BZ8VT",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",30/05/2013 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI 18","(ZHE)CHUAN DENG (JI)(2014)FT-200037 HAO","BZ4VL",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/03/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 19","(ZHE)CHUAN DENG (JI)(2013)FT-200164 HAO","BZ5VL",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","NING TAI 2","(ZHE)CHUAN  DENG (JI)(2014)FT-200147 HAO","BZ7VB",,"07.3.0 Liners - Pole and Line Vessels",453.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 21","(ZHE)CHUAN DENG (JI)(2014)FT-200076 HAO","BZV3O",,"07.3.0 Liners - Pole and Line Vessels",470.00,,"09.0.0      ","Authorised  ",11/06/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 22","(ZHE)CHUAN DENG (JI)(2014)FT-200077 HAO","BZV4O",,"07.3.0 Liners - Pole and Line Vessels",470.00,,"09.0.0      ","Authorised  ",11/06/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 27","(ZHE)CHUAN DENG (JI)(2014)FT-200078 HAO","BZV5O",,"07.3.0 Liners - Pole and Line Vessels",470.00,,"09.0.0      ","Authorised  ",11/06/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 3","(ZHE)CHUAN DENG (JI)(2012)FT-200062 HAO","BZ8VR",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 35","(ZHE)CHUAN DENG (JI)(2014)FT-200044 HAO","BZ5UV",,"07.3.0 Liners - Pole and Line Vessels",478.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI 36","(ZHE)CHUAN DENG (JI)(2011)FT-200062 HAO","BZ4VI",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI 37","(ZHE)CHUAN DENG (JI)(2014)FT-200131 HAO","BZV3Q",,"07.3.0 Liners - Pole and Line Vessels",605.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 38","(ZHE)CHUAN DENG (JI)(2011)FT-200059 HAO","BZ7VL",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI 39","(ZHE)CHUAN DENG (JI)(2011)FT-200061 HAO","BZ5VI",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI 5","(ZHE)CHUAN DENG (JI)(2012)FT-200267 HAO","BZ6VT",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 55","(ZHE)CHUAN DENG (JI)(2016)FT-200016 HAO","BZV8Z",,"07.3.0 Liners - Pole and Line Vessels",611.00,,"09.1.0 LHP  ","Authorised  ",16/04/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","NING TAI 56","(ZHE)CHUAN DENG (JI)(2015)FT-200116 HAO","BZV9S",,"07.3.0 Liners - Pole and Line Vessels",987.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","NING TAI 57","(ZHE)CHUAN DENG (JI)(2012)FT-200257 HAO","BZ9VR",,"07.3.0 Liners - Pole and Line Vessels",955.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 58","(ZHE)CHUAN  DENG (JI)(2014)FT-200109 HAO","BZ7VQ",,"07.3.0 Liners - Pole and Line Vessels",950.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 59","(ZHE)CHUAN DENG (JI)(2015)FT-200133 HAO","BZV7X",,"07.3.0 Liners - Pole and Line Vessels",611.00,,"09.0.0      ","Authorised  ",8/12/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","NING TAI 6","(ZHE)CHUAN  DENG (JI)(2014)FT-200237 HAO","BZ4VF",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 62","(ZHE)CHUAN DENG (JI)(2013)FT-200090 HAO","BZ5VY",,"07.3.0 Liners - Pole and Line Vessels",479.00,,"09.1.0 LHP  ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 65","(ZHE)CHUAN DENG (JI)(2014)FT-200089 HAO","BZV7O",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",27/05/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 66","(ZHE)CHUAN DENG (JI)(2015)FT-200083 HAO","BZV5T",,"07.3.0 Liners - Pole and Line Vessels",655.00,,"09.1.0 LHP  ","Authorised  ",1/03/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","NING TAI 68","(ZHE)CHUAN DENG (JI)(2014)FT-200084 HAO","BZV9N",,"07.3.0 Liners - Pole and Line Vessels",300.00,,"09.1.0 LHP  ","Authorised  ",6/06/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 69","(ZHE)CHUAN DENG (JI)(2014)FT-200164 HAO","BZV8O",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 7","(ZHE)CHUAN DENG (JI)(2011)FT-200009 HAO","BZ5VF",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","NING TAI 71","(ZHE)CHUAN DENG (JI)(2012)FT-200164 HAO","BZV8W",,"07.3.0 Liners - Pole and Line Vessels",611.00,,"09.0.0      ","Authorised  ",8/12/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","NING TAI 77","(ZHE)CHUAN DENG (JI)(2014)FT-200102 HAO","BZV2Q",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",27/06/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 78","(ZHE)CHUAN DENG (JI)(2016)FT-200015 HAO","BZW5A",,"07.3.0 Liners - Pole and Line Vessels",617.00,,"09.1.0 LHP  ","Authorised  ",16/04/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","NING TAI 8","(ZHE)CHUAN DENG (JI)(2011)FT-200056 HAO","BZ1VL",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI 81","(ZHE)CHUAN DENG (JI)(2016)FT-200014 HAO","BZV6A",,"07.3.0 Liners - Pole and Line Vessels",617.00,,"09.1.0 LHP  ","Authorised  ",16/04/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","NING TAI 83","(ZHE)CHUAN DENG (JI)(2016)FT-200023 HAO","BZV1Z",,"07.3.0 Liners - Pole and Line Vessels",617.00,,"09.1.0 LHP  ","Authorised  ",16/04/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","NING TAI 85","(ZHE)CHUAN DENG (JI)(2015)FT-200115 HAO","BZV9W",,"07.3.0 Liners - Pole and Line Vessels",650.00,,"09.1.0 LHP  ","Authorised  ",15/10/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","NING TAI 86","(ZHE)CHUAN DENG (JI)(2016)FT-200024 HAO","BZV2Z",,"07.3.0 Liners - Pole and Line Vessels",617.00,,"09.1.0 LHP  ","Authorised  ",16/04/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","NING TAI 87","(ZHE)CHUAN DENG (JI)(2014)FT-200165 HAO","BZV9O",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI 89","(ZHE)CHUAN DENG (JI)(2015)FT-200084 HAO","BZV6T",,"07.3.0 Liners - Pole and Line Vessels",653.00,,"09.1.0 LHP  ","Authorised  ",1/03/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","NING TAI 9","(ZHE)CHUAN DENG (JI)(2011)FT-200057 HAO","BZ2VL",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI LENG 1","(ZHE)CHUAN DENG (JI)(2012)FT-200164 HAO","BZ9VT",,"12.0.0 Fish Carriers",3342.00,,"99.0.0 NK   ","Authorised  ",15/10/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","NING TAI LENG 2","(ZHE)CHUAN DENG (JI)(2014)FT-200214 HAO","BZU4Q",,"12.0.0 Fish Carriers",3585.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","NING TAI LENG 6","(ZHE)CHUAN DENG (JI)(2015)FT-200160 HAO","BZV6Y",,"12.0.0 Fish Carriers",4506.00,,"99.0.0 NK   ","Authorised  ",16/02/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","OU YA 1","(ZHE)CHUAN DENG (JI)(2013) FT-200130 HAO","BZ4VZ",,"07.3.0 Liners - Pole and Line Vessels",1596.00,,"09.1.0 LHP  ","Authorised  ",23/03/2012 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","OU YA 19","(ZHE)CHUAN DENG (JI)(2013) FT-200131 HAO","BZ5VZ",,"07.3.0 Liners - Pole and Line Vessels",1596.00,,"09.1.0 LHP  ","Authorised  ",23/03/2012 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","OU YA 27","(ZHE)CHUAN DENG (JI)(2013) FT-200169 HAO","BZ6VZ",,"07.3.0 Liners - Pole and Line Vessels",1596.00,,"09.1.0 LHP  ","Authorised  ",23/03/2012 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","OU YA 28","(ZHE)CHUAN DENG (JI)(2013) FT-200168 HAO","BZ7VZ",,"07.3.0 Liners - Pole and Line Vessels",1596.00,,"09.1.0 LHP  ","Authorised  ",23/03/2012 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","OU YA 7","(ZHE)CHUAN DENG (JI)(2011) FT-200074 HAO","BZ7VS",,"07.3.0 Liners - Pole and Line Vessels",955.00,,"09.0.0      ","Authorised  ",1/04/2012 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","OU YA 8","(ZHE)CHUAN DENG (JI)(2011) FT-200073 HAO","BZ8VS",,"07.3.0 Liners - Pole and Line Vessels",955.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","OU YA 9","(ZHE)CHUAN DENG (JI)(2011) FT-200101 HAO","BZ9VS",,"07.3.0 Liners - Pole and Line Vessels",955.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 768","(ZHE)CHUAN DENG (JI)(2012)FT-200185 HAO","BZ5VP",,"07.3.0 Liners - Pole and Line Vessels",730.00,,"09.0.0      ","Authorised  ",19/05/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 777","(ZHE)CHUAN DENG (JI)(2014)FT-200213 HAO","BZ6VP",,"07.3.0 Liners - Pole and Line Vessels",722.00,,"09.0.0      ","Authorised  ",3/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 801","(ZHE)CHUAN DENG (JI)(2012)FT-100076 HAO","BZ2UP",,"07.3.0 Liners - Pole and Line Vessels",430.00,,"09.0.0      ","Authorised  ",19/05/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 805","(ZHE)CHUAN DENG (JI)(2014)FT-200182 HAO","BZ1VO",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",30/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 806","(ZHE)CHUAN DENG (JI)(2014)FT-200171 HAO","BZ3VA",,"07.3.0 Liners - Pole and Line Vessels",495.00,,"09.0.0      ","Authorised  ",30/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 807","(ZHE)CHUAN DENG (JI)(2014)FT-200158 HAO","BZ4VA",,"07.3.0 Liners - Pole and Line Vessels",495.00,,"09.0.0      ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 811","(ZHE)CHUAN DENG (JI)(2013)FT-200146 HAO","BZ6VA",,"07.3.0 Liners - Pole and Line Vessels",491.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 817","(ZHE)CHUAN DENG(JI)(2015)FT-200025","BZ8VA",,"07.3.0 Liners - Pole and Line Vessels",477.00,,"09.0.0      ","Authorised  ",29/02/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","PU YUAN 825","(ZHE)CHUAN DENG (JI)(2014)FT-200172 HAO","BZ4VO",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",30/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 835","(ZHE)CHUAN DENG (JI)(2014)FT-200142 HAO","BZ6VO",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",27/06/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","PU YUAN 837","(ZHE)CHUAN  DENG (JI)(2014)FT-200224 HAO","BZ7VO",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 838","(ZHE)CHUAN DENG (JI)(2012)FT-200143 HAO","BZ6UV",,"07.3.0 Liners - Pole and Line Vessels",475.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","PU YUAN 856","(ZHE)CHUAN DENG (JI)(2014)FT-200169 HAO","BZ8VO",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",30/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 885","(ZHE)CHUAN DENG (JI)(2014)FT-200170 HAO","BZ2VP",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",30/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 887","(ZHE)CHUAN DENG (JI)(2014)FT-200162 HAO","BZ4VP",,"07.3.0 Liners - Pole and Line Vessels",496.00,,"09.0.0      ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN 898","(ZHE)CHUAN DENG (JI)(2014)FT-200211 HAO","BZ6VK",,"07.3.0 Liners - Pole and Line Vessels",498.00,,"09.0.0      ","Authorised  ",3/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","PU YUAN LENG 6","(ZHE)CHUAN DENG(JI)(2015) FT-200034HAO","BZV7S",,"12.0.0 Fish Carriers",2998.00,2998.00,"99.0.0 NK   ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","PU YUAN LENG 7","(ZHE)CHUAN DENG(JI)(2015) FT-200035HAO","BZV8S",,"12.0.0 Fish Carriers",2998.00,2998.00,"99.0.0 NK   ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","RONG YUAN YU 169","(LU)CHUAN DENG (JI)(2012)FT-200064 HAO","BBKF3",,"07.3.0 Liners - Pole and Line Vessels",403.00,,"09.0.0      ","Authorised  ",8/03/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","RUN DA 601","(ZHE)CHUANDENG(JI)(2014)FT-200153","BZ2VB",,"07.3.0 Liners - Pole and Line Vessels",482.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","RUN DA 602","(ZHE)CHUANDENG(JI)(2014)FT-200154","BZ3VB",,"07.3.0 Liners - Pole and Line Vessels",482.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","RUN DA 605","(ZHE)CHUANDENG(JI)(2014)FT-200207","BZ1VJ",,"07.3.0 Liners - Pole and Line Vessels",736.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","RUN DA 607","(ZHE)CHUAN DENG(JI)(2015)FT-200005","BZ3VJ",,"07.3.0 Liners - Pole and Line Vessels",732.00,,"09.0.0      ","Authorised  ",29/02/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","RUN DA 608","(ZHE)CHUAN DENG(JI)(2015)FT-200045","BZ4VJ",,"07.3.0 Liners - Pole and Line Vessels",732.00,,"09.0.0      ","Authorised  ",29/02/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","RUN DA 610","(ZHE)CHUAN DENG(JI)(2015)FT-200006","BZ5VJ",,"07.3.0 Liners - Pole and Line Vessels",731.00,,"09.0.0      ","Authorised  ",29/02/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","RUN DA 617","(ZHE)CHUAN DENG (JI)(2011)FT-200085 HAO","BZ6VJ",,"07.3.0 Liners - Pole and Line Vessels",731.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","RUN DA 618","(ZHE)CHUANDENG(JI)(2014)FT-200205","BZ7VJ",,"07.3.0 Liners - Pole and Line Vessels",736.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","RUN DA 677","(ZHE)CHUANDENG(JI)(2014)FT-200204","BZ8VJ",,"07.3.0 Liners - Pole and Line Vessels",732.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","RUNDA 268","(ZHE)CHUAN DENG(JI)(2015)FT-200080","BZ3VV",,"07.1.0 Liners - Handliners",592.00,,"09.1.0 LHP  ","Authorised  ",16/02/2016 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","SHUN HANG 6","(ZHE)CHUAN DENG (JI)(2013)FT-200170 HAO","BZV5M",,"07.3.0 Liners - Pole and Line Vessels",1587.00,,"09.1.0 LHP  ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","SHUN HANG 7","(ZHE)CHUAN DENG (JI)(2014)FT-200167 HAO","BZU4N",,"07.3.0 Liners - Pole and Line Vessels",1598.00,,"09.1.0 LHP  ","Authorised  ",22/09/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","SHUN HANG 8","(ZHE)CHUAN DENG (JI)(2013)FT-200171 HAO","BZV6M",,"07.3.0 Liners - Pole and Line Vessels",1596.00,,"09.1.0 LHP  ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","SHUN XING 16","(ZHE)CHUAN DENG (JI)(2016)FT-200005 HAO","BZV7Z",,"07.3.0 Liners - Pole and Line Vessels",1233.00,,"09.1.0 LHP  ","Authorised  ",16/02/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","SHUN XING 17","(ZHE)CHUAN DENG (JI)(2014)FT-200239 HAO","BZU5P",,"07.3.0 Liners - Pole and Line Vessels",1275.00,1275.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","SHUN XING 18","(ZHE)CHUAN DENG (JI)(2014)FT-200229 HAO","BZU6P",,"07.3.0 Liners - Pole and Line Vessels",946.00,946.00,"09.1.0 LHP  ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","SHUN ZHOU 811","(ZHE)CHUAN DENG (JI)(2013)FT-200072 HAO","BZ6VV",,"07.3.0 Liners - Pole and Line Vessels",484.00,,"09.1.0 LHP  ","Authorised  ",13/06/2013 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","SHUN ZHOU 817","(ZHE)CHUAN DENG (JI)(2014)FT-200057 HAO","BZV10",,"07.3.0 Liners - Pole and Line Vessels",487.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,27/01/2018 12:00:00 a.m.
+"China","CHN","SU YUAN YU 8","(SU)CHUAN DENG (JI)(2012)FT-200001 HAO","BZ2VJ",,"07.3.0 Liners - Pole and Line Vessels",736.00,,"09.0.0      ","Authorised  ",9/09/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","SU YUAN YU 9","(SU)CHUAN DENG (JI)(2014)FT-200002 HAO","BZU9K",,"07.3.0 Liners - Pole and Line Vessels",949.00,,"09.1.0 LHP  ","Authorised  ",28/04/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","TAI XIANG","030002000561","BAPI",9005625,"12.0.0 Fish Carriers",1950.00,,"99.0.0 NK   ","Authorised  ",28/04/2015 12:00:00 a.m.,30/11/2017 12:00:00 a.m.
+"China","CHN","TIAN YUAN","(JIN)CHUAN DENG (JI)(2012) FT-200011 HAO","BZSJ2",,"07.3.0 Liners - Pole and Line Vessels",974.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","TIAN YUAN","(ZHE)CHUAN  DENG (JI)(2014)FT-200176 HAO","BKBY",,"07.3.0 Liners - Pole and Line Vessels",499.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","TIAN YUE 1","(ZHE)CHUAN  DENG (JI)(2014)FT-200179 HAO","BZ8VQ",,"07.3.0 Liners - Pole and Line Vessels",955.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","TIAN YUE 2","(ZHE)CHUAN DENG (JI)(2014)FT-200059 HAO","BZ9VQ",,"07.3.0 Liners - Pole and Line Vessels",955.00,,"09.1.0 LHP  ","Authorised  ",22/01/2015 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","WAN XIN 32","(ZHE)CHUAN DENG (JI)(2015)FT-200113 HAO","BZV6U",,"07.3.0 Liners - Pole and Line Vessels",709.00,,"09.1.0 LHP  ","Authorised  ",22/03/2016 12:00:00 a.m.,31/12/2018 11:59:59 p.m.
+"China","CHN","WAN XIN 38","(ZHE)CHUAN DENG (JI)(2015)FT-200114 HAO","BZV7U",,"07.3.0 Liners - Pole and Line Vessels",709.00,,"09.1.0 LHP  ","Authorised  ",22/03/2016 12:00:00 a.m.,31/12/2018 11:59:59 p.m.
+"China","CHN","WEI YU 16","(LU)CHUAN DENG (JI)(2012)FT-200055 HAO","BBLZ1",,"07.3.0 Liners - Pole and Line Vessels",1266.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","WEI YU 18","(LU)CHUAN DENG (JI)(2012)FT-200061 HAO","BBLZ2",,"07.3.0 Liners - Pole and Line Vessels",917.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","WEI YU 19","(LU)CHUAN DENG (JI)(2012)FT-200056 HAO","BBLZ3",,"07.3.0 Liners - Pole and Line Vessels",1266.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN FA 9","(LU)CHUAN DENG (JI)(2014) FT-200055 HAO","413114000",,"07.3.0 Liners - Pole and Line Vessels",662.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN JI LI 15","(ZHE)CHUAN DENG (JI)(2013)FT-200154 HAO","BZ3UV",,"07.3.0 Liners - Pole and Line Vessels",942.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN JI LI 16","(ZHE)CHUAN DENG (JI)(2012)FT-200284 HAO","BZ5UU",,"07.3.0 Liners - Pole and Line Vessels",942.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN JI LI NO.1","(ZHE)CHUAN DENG (JI)(2012)FT-200204 HAO","BZVA3",,"07.3.0 Liners - Pole and Line Vessels",499.00,,"09.0.0      ","Authorised  ",19/05/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN JI LI NO.8","(ZHE)CHUAN DENG (JI)(2011)FT-200022 HAO","BZVA4",,"07.3.0 Liners - Pole and Line Vessels",1168.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN SHI JI NO. 98","(ZHE)CHUAN DENG (JI)(2012)FT-200269 HAO","BZ5UM",,"07.3.0 Liners - Pole and Line Vessels",712.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN SHI JI NO.1","(ZHE)CHUAN DENG (JI)(2011) FT-200134 HAO","BKXO2",,"07.3.0 Liners - Pole and Line Vessels",1095.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN SHI JI NO.16","(ZHE)CHUAN DENG (JI)(2011)FT-200038 HAO","BZUT3",,"07.3.0 Liners - Pole and Line Vessels",476.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN SHI JI NO.8","(ZHE)CHUAN DENG (JI)(2012)FT-200270 HAO","BKXC2",,"07.3.0 Liners - Pole and Line Vessels",964.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN XING HAI","010185","BAIW",,"01.2.3 Trawlers - Stern Trawlers - Factory",2925.00,2925.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","XIN ZHOU","(ZHE)CHUAN DENG (JI)(2015)FT-200068 HAO","BZ6VD",,"12.0.0 Fish Carriers",1233.00,,"99.0.0 NK   ","Authorised  ",8/03/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","YAN YU 647","(LU)CHUAN DENG (JI)(2013)FT-200100 HAO","BBRQ",,"07.3.0 Liners - Pole and Line Vessels",294.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 648","(LU)CHUAN DENG (JI)(2013)FT-200120 HAO","BBRR",,"07.3.0 Liners - Pole and Line Vessels",294.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 649","(LU)CHUAN DENG (JI)(2013)FT-200121 HAO","BBRY",,"07.3.0 Liners - Pole and Line Vessels",296.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 650","(LU)CHUAN DENG (JI)(2013)FT-200122 HAO","BBRZ",,"07.3.0 Liners - Pole and Line Vessels",296.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 658","(LU)CHUAN DENG (JI)(2013)FT-200123 HAO","BBJW",,"07.3.0 Liners - Pole and Line Vessels",294.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 659","(LU)CHUAN DENG (JI)(2013)FT-200124 HAO","BBJX",,"07.3.0 Liners - Pole and Line Vessels",294.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 661","(LU)CHUAN DENG (JI)(2013)FT-200089 HAO","BZYV",,"07.3.0 Liners - Pole and Line Vessels",297.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 662","(LU)CHUAN DENG (JI)(2013)FT-200090 HAO","BZYW",,"07.3.0 Liners - Pole and Line Vessels",297.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 663","(LU)CHUAN DENG (JI)(2013)FT-200091 HAO","BZYX",,"07.3.0 Liners - Pole and Line Vessels",296.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU 664","(LU)CHUAN DENG (JI)(2013)FT-200092 HAO","BZYJ",,"07.3.0 Liners - Pole and Line Vessels",296.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YU LENG NO.2","(LU)CHUAN DENG (JI)(2013)FT-200093 HAO","BBFY",,"07.3.0 Liners - Pole and Line Vessels",853.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YUAN 1","YG0200020110","BBEB",,"01.2.3 Trawlers - Stern Trawlers - Factory",3597.00,3597.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","YAN YUAN 2","YG0200020111","BBEG",,"01.2.3 Trawlers - Stern Trawlers - Factory",2917.00,2917.00,"03.2.1 OTM  ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","ZHE PU YUAN 52","(ZHE)CHUAN DENG (JI)(2012)FT-200273 HAO","BZ9UV",,"07.3.0 Liners - Pole and Line Vessels",948.00,,"09.0.0      ","Authorised  ",18/04/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","ZHE PU YUAN 68","(ZHE)CHUAN  DENG (JI)(2014)FT-200222 HAO","BZ7VP",,"07.3.0 Liners - Pole and Line Vessels",946.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","ZHONG JU 18","(ZHE)CHUAN DENG(JI)(2015)FT-200144","BZV7Y",,"07.3.0 Liners - Pole and Line Vessels",637.00,,"09.1.0 LHP  ","Authorised  ",15/03/2016 12:00:00 a.m.,31/03/2019 12:00:00 a.m.
+"China","CHN","ZHOU HONG YUAN 1","(ZHE)CHUAN DENG (JI)(2014)FT-200209 HAO","BZ1VF",,"07.3.0 Liners - Pole and Line Vessels",2061.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","ZHOU HONG YUAN 16","(ZHE)CHUAN  DENG (JI)(2013)FT-200162 HAO","BZ6VM",,"07.3.0 Liners - Pole and Line Vessels",731.00,,"09.0.0      ","Authorised  ",14/04/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","ZHOU HONG YUAN 2","(ZHE)CHUAN DENG (JI)(2014)FT-200230 HAO","BZ2VF",,"07.3.0 Liners - Pole and Line Vessels",2020.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2019 11:59:59 p.m.
+"China","CHN","ZHOU HONG YUAN 7","(ZHE)CHUAN  DENG (JI)(2013)FT-200163 HAO","BZ5VM",,"07.3.0 Liners - Pole and Line Vessels",731.00,,"09.0.0      ","Authorised  ",14/04/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","ZHOU HONG YUAN 9","(ZHE)CHUAN  DENG (JI)(2013)FT-200161 HAO","BZ8UU",,"07.3.0 Liners - Pole and Line Vessels",472.00,,"09.0.0      ","Authorised  ",1/04/2016 12:00:00 a.m.,31/03/2018 11:59:59 p.m.
+"China","CHN","ZHOU YU 10","(ZHE)CHUAN DENG (JI)(2014)FT-200191 HAO","BZV5Q",,"07.3.0 Liners - Pole and Line Vessels",989.00,,"09.1.0 LHP  ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","ZHOU YU 5","(ZHE)CHUAN DENG(JI)(2015)FT-200100","BZ6UU",,"07.3.0 Liners - Pole and Line Vessels",1096.00,,"09.0.0      ","Authorised  ",16/07/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","ZHOU YU 6","(ZHE)CHUAN DENG(JI)(2015)FT-200101","BZ7UU",,"07.3.0 Liners - Pole and Line Vessels",980.00,,"09.0.0      ","Authorised  ",16/07/2015 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","ZHOU YU 7","(ZHE)CHUAN DENG (JI)(2014)FT-200107 HAO","BZV6N",,"07.3.0 Liners - Pole and Line Vessels",989.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","ZHOU YU 8","(ZHE)CHUAN DENG (JI)(2014)FT-200108 HAO","BZV7N",,"07.3.0 Liners - Pole and Line Vessels",989.00,,"09.0.0      ","Authorised  ",1/04/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","ZHOU YU 9","(ZHE)CHUAN DENG (JI)(2014)FT-200189 HAO","BZV4Q",,"07.3.0 Liners - Pole and Line Vessels",989.00,,"09.1.0 LHP  ","Authorised  ",15/10/2014 12:00:00 a.m.,31/03/2017 12:00:00 a.m.
+"China","CHN","ZHOU YU 901","(ZHE)CHUAN DENG(JI)(2013)FT-200112","BZU7C",,"07.3.0 Liners - Pole and Line Vessels",586.00,,"09.1.0 LHP  ","Authorised  ",31/07/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","ZHOU YU 902","(ZHE)CHUAN DENG(JI)(2013)FT-200113","BZU8C",,"07.3.0 Liners - Pole and Line Vessels",586.00,,"09.1.0 LHP  ","Authorised  ",31/07/2015 12:00:00 a.m.,31/03/2018 12:00:00 a.m.
+"China","CHN","ZHOU YU ER HAO","(ZHE)CHUAN DENG (JI)(2012)FT-200045 HAO","BKUV8",,"07.3.0 Liners - Pole and Line Vessels",1194.00,,"09.0.0      ","Authorised  ",16/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"China","CHN","ZHOU YU YI  HAO","(ZHE)CHUAN DENG (JI)(2012)FT-200044 HAO","BKUU8",,"07.3.0 Liners - Pole and Line Vessels",1198.00,,"09.0.0      ","Authorised  ",16/03/2016 12:00:00 a.m.,31/03/2017 11:59:59 p.m.
+"European Union","POL","ALINA","RO/T-G28","SNLO",8907137,"01.2.3 Trawlers - Stern Trawlers - Factory",7681.00,,"03.2.1 OTM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","LTU","ANDROMEDA","KL 727","LYRJ",8806242,"12.0.0 Fish Carriers",5899.00,5899.00,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","NLD","ANNELIES ILENA","IRL000I13000","PHKE",9204556,"01.0.0 Trawlers",14055.00,14055.00,"03.2.1 OTM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","LTU","CAPELLA","KL 770","LYSG",9047257,"12.0.0 Fish Carriers",7313.00,7313.00,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","LTU","CASSIOPEA","KL 808","LYTA",9047269,"12.0.0 Fish Carriers",7326.00,7326.00,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","NLD","COOL EXPRESO","18413 ZR 1993","PDKK",9085479,"12.0.0 Fish Carriers",5471.00,5471.00,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","LTU","LIBRA","KL 746","LYRT",9009683,"12.0.0 Fish Carriers",4587.00,4587.00,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","DEU","MAARTJE THEADORA","NLD199902581","DEAN2",9182801,"01.2.2 Trawlers - Stern Trawlers - Freezer",9082.00,,"03.2.8 OTM-2","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","LTU","MARGIRIS","KL 855","LYRV",8301187,"01.0.0 Trawlers",9499.00,,"03.2.1 OTM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","POL","POLONUS","ROG/S/1218","SNHE",8802571,"01.2.3 Trawlers - Stern Trawlers - Factory",1805.00,,"03.2.1 OTM  ","Authorised  ",23/01/2016 12:00:00 a.m.,31/12/2016 12:00:00 a.m.
+"European Union","POL","SAGA","POL035202230","SNIC",8607191,"01.2.3 Trawlers - Stern Trawlers - Factory",7765.00,,"03.2.1 OTM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","NLD","SIERRA KING","17969 ZR 1989","PESF",8810786,"12.0.0 Fish Carriers",3999.00,3999.00,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","NLD","SIERRA LARA","MMSI244820009","PCOZ",9120205,"12.0.0 Fish Carriers",5100.00,,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"European Union","NLD","SIERRA LEYRE","23413 Z 2012","PCPM",9135822,"12.0.0 Fish Carriers",5100.00,5100.00,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Korea","KOR","101 HAE RANG","1210001-6261104","6KCB9",8827882,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",454.00,,"09.2.0 LHM  ","Authorised  ",25/10/2012 12:00:00 a.m.,24/10/2017 11:59:59 p.m.
+"Korea","KOR","AGNES 102","9512190-6260001","DTBR3",7355167,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",499.37,,"09.2.0 LHM  ","Authorised  ",8/10/2011 12:00:00 a.m.,7/10/2016 12:00:00 a.m.
+"Korea","KOR","AGNES 103","9512192-6260009","DTBR4",7380150,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",498.59,,"09.2.0 LHM  ","Authorised  ",11/10/2011 12:00:00 a.m.,10/10/2016 12:00:00 a.m.
+"Korea","KOR","AGNES 105","9512155-6260004","DTBR9",7417915,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",430.14,,"09.2.0 LHM  ","Authorised  ",1/10/2013 12:00:00 a.m.,30/09/2018 11:59:59 p.m.
+"Korea","KOR","DONGBANG No. 101","9603010-6481302","DETP",8827636,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",49.30,,"09.2.0 LHM  ","Authorised  ",27/07/2012 12:00:00 a.m.,26/07/2017 11:59:59 p.m.
+"Korea","KOR","JOONSUNG NO.5","1207002-6261100","6KCB8",8509155,"01.2.0 Trawlers - Stern Trawlers",3571.00,3571.00,"03.4.9 OT   ","Authorised  ",13/08/2012 12:00:00 a.m.,12/08/2017 11:59:59 p.m.
+"Korea","KOR","KRISTALIN NO.20","9510042-6260004","6MUJ",6509931,"01.2.0 Trawlers - Stern Trawlers",309.51,,"03.2.8 OTM-2","Authorised  ",13/10/2012 12:00:00 a.m.,12/10/2017 11:59:59 p.m.
+"Korea","KOR","KRISTALIN NO.9","0112016-6260009","DTAG4",7735379,"01.2.0 Trawlers - Stern Trawlers",330.00,,"03.2.8 OTM-2","Authorised  ",1/07/2013 12:00:00 a.m.,30/06/2018 11:59:59 p.m.
+"Korea","KOR","KWANGJAHO","0508001-6261104","DTBP9",8505977,"01.2.0 Trawlers - Stern Trawlers",3012.00,3012.00,"03.2.8 OTM-2","Authorised  ",13/05/2014 12:00:00 a.m.,24/06/2019 11:59:59 p.m.
+"Korea","KOR","NAMBUKHO","9512152-6260006","6MXT",7377452,"01.2.0 Trawlers - Stern Trawlers",5549.02,,"03.2.8 OTM-2","Authorised  ",9/02/2013 12:00:00 a.m.,8/02/2018 11:59:59 p.m.
+"Korea","KOR","No 707 JIN KYEONG","1011001-6263800","DTBZ 2",6263800,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",429.00,,"09.2.0 LHM  ","Authorised  ",1/01/2013 12:00:00 a.m.,29/09/2016 11:59:59 p.m.
+"Korea","KOR","NO. 101 SAM YOUNG","9510065-6260007","6MOR",8827583,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",661.00,,"09.2.0 LHM  ","Authorised  ",16/09/2012 12:00:00 a.m.,15/09/2017 11:59:59 p.m.
+"Korea","KOR","NO. 103 BADA","0707001-6261406","DTBT8",8703488,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",349.00,1096.00,"09.2.0 LHM  ","Authorised  ",17/05/2014 12:00:00 a.m.,17/03/2018 11:59:59 p.m.
+"Korea","KOR","NO. 707 EUNSUNG","1111001-6261104","6KCA8",8312473,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",,311.00,"09.2.0 LHM  ","Authorised  ",8/12/2011 12:00:00 a.m.,7/12/2016 11:59:59 p.m.
+"Korea","KOR","No.101 INSUNG","9512344-6260005","DTZJ",9041992,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",794.00,794.00,"09.2.0 LHM  ","Authorised  ",14/06/2013 12:00:00 a.m.,13/06/2018 11:59:59 p.m.
+"Korea","KOR","NO.301 SAM YOUNG","9512317-6260008","HLLN",8623145,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",454.00,,"09.2.0 LHM  ","Authorised  ",2/08/2011 12:00:00 a.m.,1/08/2016 11:59:59 p.m.
+"Korea","KOR","NO.519 DONG WON","9512268-6260008","6KWL",7416480,"01.2.0 Trawlers - Stern Trawlers",664.99,,"03.2.8 OTM-2","Authorised  ",1/10/2011 12:00:00 a.m.,30/09/2016 11:59:59 p.m.
+"Korea","KOR","NO.700 SUR ESTE","0112002-6260005","DTAP6",8217506,"01.2.0 Trawlers - Stern Trawlers",271.00,,"03.2.8 OTM-2","Authorised  ",1/05/2012 12:00:00 a.m.,30/04/2017 11:59:59 p.m.
+"Korea","KOR","NO.701 DONG WON","0204001-6260001","DTBJ8",7114513,"01.2.0 Trawlers - Stern Trawlers",1501.00,,"03.2.8 OTM-2","Authorised  ",24/05/2012 12:00:00 a.m.,23/05/2017 11:59:59 p.m.
+"Korea","KOR","No.703 INSUNG","1010002-6261107","DTBY6",8708074,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",1105.00,1105.00,"09.2.0 LHM  ","Authorised  ",15/07/2011 12:00:00 a.m.,14/07/2016 11:59:59 p.m.
+"Korea","KOR","No.707 AMOR","9512418-6260006","6LRR",9042051,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",539.00,794.00,"09.2.0 LHM  ","Authorised  ",8/01/2015 12:00:00 a.m.,13/11/2016 11:59:59 p.m.
+"Korea","KOR","NO.707 SUR ESTE","0112003-6260004","DTAI8",8312851,"01.2.0 Trawlers - Stern Trawlers",276.00,,"03.2.8 OTM-2","Authorised  ",1/05/2012 12:00:00 a.m.,30/04/2017 11:59:59 p.m.
+"Korea","KOR","NO.709 SUR ESTE","0112004-6260003","DTAR6",8414465,"01.2.0 Trawlers - Stern Trawlers",274.00,,"03.2.8 OTM-2","Authorised  ",8/01/2012 12:00:00 a.m.,7/01/2017 11:59:59 p.m.
+"Korea","KOR","No.808 TONG YOUNG","0701001-6263808","DTBS9",8614352,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",303.00,968.00,"09.2.0 LHM  ","Authorised  ",17/05/2014 12:00:00 a.m.,14/01/2017 11:59:59 p.m.
+"Korea","KOR","SEJONG","1004001-6261101","DTBX8",8607385,"01.2.0 Trawlers - Stern Trawlers",7765.00,,"03.2.8 OTM-2","Authorised  ",5/07/2015 12:00:00 a.m.,4/07/2020 11:59:59 p.m.
+"Korea","KOR","SKY MAX 101","1307001-6261403","6KCC6",8662828,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",1037.00,,"09.2.0 LHM  ","Authorised  ",5/08/2013 12:00:00 a.m.,4/08/2018 11:59:59 p.m.
+"Korea","KOR","SUNSHINE","1101001-6261105","DTBZ3",,"07.3.1 Liners - Pole and Line Vessels - Japanese Type",416.00,,"09.2.0 LHM  ","Authorised  ",25/10/2011 12:00:00 a.m.,24/10/2016 12:00:00 a.m.
+"Liberia","LBR","BAY PHOENIX","412-14-BCR","A8OE5",9047271,"12.0.0 Fish Carriers",7326.00,,"99.0.0 NK   ","Authorised  ",20/02/2016 12:00:00 a.m.,20/02/2017 12:00:00 a.m.
+"Liberia","LBR","BONAIRE TRADER","635-14-BCR","D5GP9",9340922,"11.9.0 Motherships - Motherships nei",7687.00,,"99.0.0 NK   ","Authorised  ",10/06/2015 12:00:00 a.m.,10/06/2016 11:59:59 p.m.
+"Liberia","LBR","CAPE BELLE","106-09-NYC","ELWE4",9051789,"12.0.0 Fish Carriers",6082.00,,"99.0.0 NK   ","Authorised  ",23/05/2015 12:00:00 a.m.,28/04/2016 12:00:00 a.m.
+"Liberia","LBR","CHIKUMA","651-15-NYC","D5JI4",9666493,"12.0.0 Fish Carriers",6558.00,,"99.0.0 NK   ","Authorised  ",18/10/2015 12:00:00 a.m.,2/10/2016 12:00:00 a.m.
+"Liberia","LBR","FRIO IONIAN","213-10-NYC","ELPE2",9014793,"12.0.0 Fish Carriers",6082.00,,"99.0.0 NK   ","Authorised  ",6/05/2015 12:00:00 a.m.,6/05/2016 11:59:59 p.m.
+"Liberia","LBR","FRIO OLYMPIC","152-09-NYC","A8EJ6",8801802,"12.0.0 Fish Carriers",8487.00,,"99.0.0 NK   ","Authorised  ",23/05/2015 12:00:00 a.m.,22/05/2016 11:59:59 p.m.
+"Liberia","LBR","FUJI BAY","11-15-NYC","A8OL6",8920141,"12.0.0 Fish Carriers",9070.00,,"99.0.0 NK   ","Authorised  ",15/04/2016 12:00:00 a.m.,15/04/2017 12:00:00 a.m.
+"Liberia","LBR","FUTAGAMI","993-16-NYC","D5KG4",9105293,"12.0.0 Fish Carriers",2581.00,,"99.0.0 NK   ","Authorised  ",1/03/2016 12:00:00 a.m.,1/03/2017 11:59:59 p.m.
+"Liberia","LBR","GENTA MARU","730-15-NYC","D5JO9",9620384,"12.0.0 Fish Carriers",3989.00,,"99.0.0 NK   ","Authorised  ",13/11/2015 12:00:00 a.m.,1/11/2016 12:00:00 a.m.
+"Liberia","LBR","GREEN CONCORDIA","439-15-NYC","D5IV3",9011038,"12.0.0 Fish Carriers",5617.00,,"99.0.0 NK   ","Authorised  ",17/06/2015 12:00:00 a.m.,1/06/2016 12:00:00 a.m.
+"Liberia","LBR","GREEN GLACIER","727-14-NYC","D5HI8",9004401,"12.0.0 Fish Carriers",5136.00,,"99.0.0 NK   ","Authorised  ",28/02/2016 12:00:00 a.m.,15/02/2017 11:59:59 p.m.
+"Liberia","LBR","GREEN TOLEDO","266-15-NYC","D5IJ6",9015785,"12.0.0 Fish Carriers",5617.00,,"99.0.0 NK   ","Authorised  ",18/03/2016 12:00:00 a.m.,18/03/2017 11:59:59 p.m.
+"Liberia","LBR","HUMBOLDT BAY","242-09-NYC","A8OL4",8907888,"12.0.0 Fish Carriers",9070.00,,"99.0.0 NK   ","Authorised  ",25/09/2015 12:00:00 a.m.,2/09/2016 12:00:00 a.m.
+"Liberia","LBR","JASON","123-16-NYC","D5LB4",9377808,"11.0.0 Motherships",3798.00,,"99.0.0 NK   ","Authorised  ",14/04/2016 12:00:00 a.m.,14/04/2017 12:00:00 a.m.
+"Liberia","LBR","LAGOON PHOENIX","413-14-BCR","A8OE4",9047245,"12.0.0 Fish Carriers",7313.00,,"99.0.0 NK   ","Authorised  ",25/03/2016 12:00:00 a.m.,24/03/2017 12:00:00 a.m.
+"Liberia","LBR","MEITA MARU","729-15-NYC","D5JO8",9071583,"12.0.0 Fish Carriers",3802.00,,"99.0.0 NK   ","Authorised  ",15/10/2015 12:00:00 a.m.,29/09/2016 12:00:00 a.m.
+"Liberia","LBR","NOVA STELLA","466-15-NYC","D5IW5",8517358,"12.0.0 Fish Carriers",6579.00,,"99.0.0 NK   ","Authorised  ",26/06/2015 12:00:00 a.m.,3/06/2016 12:00:00 a.m.
+"Liberia","LBR","PRINCE OF SEAS","431-14-BCR","A9JI5",9014444,"12.0.0 Fish Carriers",6082.00,,"99.0.0 NK   ","Authorised  ",28/05/2015 12:00:00 a.m.,27/05/2016 11:59:59 p.m.
+"Liberia","LBR","PRINCE OF TIDES","531-14-BCR","A8JI4",9061198,"12.0.0 Fish Carriers",7329.00,,"99.0.0 NK   ","Authorised  ",6/02/2016 12:00:00 a.m.,5/02/2017 12:00:00 a.m.
+"Liberia","LBR","SEA STAR","910-15-NYC","D5KA9",8914221,"12.0.0 Fish Carriers",4574.00,,"99.0.0 NK   ","Authorised  ",13/11/2015 12:00:00 a.m.,26/10/2016 12:00:00 a.m.
+"Liberia","LBR","SIERRA LAUREL","895-15-NYC","D5JZ8",9163403,"12.0.0 Fish Carriers",5100.00,,"99.0.0 NK   ","Authorised  ",22/11/2015 12:00:00 a.m.,6/11/2016 12:00:00 a.m.
+"Liberia","LBR","SIERRA QUEEN","453-15-NYC","D5IV7",9127928,"12.0.0 Fish Carriers",6579.00,5918.00,"99.0.0 NK   ","Authorised  ",25/09/2015 12:00:00 a.m.,25/08/2016 11:59:59 p.m.
+"Liberia","LBR","TAGANROGSKIY ZALIV","964-13-NYC","A8UC4",9016973,"12.0.0 Fish Carriers",12413.00,,"99.0.0 NK   ","Authorised  ",6/05/2015 12:00:00 a.m.,6/05/2016 11:59:59 p.m.
+"Liberia","LBR","TAIHO MARU","1323-16-NYC","D5KS2",9459591,"12.0.0 Fish Carriers",3858.00,,"99.0.0 NK   ","Authorised  ",14/02/2016 12:00:00 a.m.,14/02/2017 11:59:59 p.m.
+"Liberia","LBR","VICTORIA II","D5KD3","D5KD3",9140097,"12.0.0 Fish Carriers",2717.00,,"99.0.0 NK   ","Authorised  ",15/12/2015 12:00:00 a.m.,15/12/2016 11:59:59 p.m.
+"Liberia","LBR","WATER PHOENIX","414-14-BCR","A8OE3",9045168,"12.0.0 Fish Carriers",7303.00,,"99.0.0 NK   ","Authorised  ",13/11/2015 12:00:00 a.m.,27/10/2016 12:00:00 a.m.
+"New Zealand","NZL","AMALTAL APOLLO","62373","ZMOR",8615851,"01.0.0 Trawlers",335.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","AMALTAL EXPLORER","62311","ZMTZ",8510805,"01.0.0 Trawlers",1386.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","AMALTAL MARINER","63146","ZMAM",9132466,"01.0.0 Trawlers",498.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","AUKAHA","63284","ZMPD",9144108,"01.0.0 Trawlers",1226.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","GALATEA II","7378","ZMZK",7816197,"01.0.0 Trawlers",156.70,,"03.1.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","GARRAWAY","32068","ZM6583",,"07.2.0 Liners - Longliners",80.00,,"09.5.0 LL   ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","IRVINGA","901187","ZMMA",8834639,"01.0.0 Trawlers",4407.00,,"03.0.0      ","Authorised  ",15/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","JANAS","63634","ZMTW",9057109,"07.2.0 Liners - Longliners",1079.00,1079.00,"09.3.0 LLS  ","Authorised  ",3/12/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","JAY CATHERINE","2082","ZM8696",,"07.2.0 Liners - Longliners",80.83,,"09.3.0 LLS  ","Authorised  ",6/11/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","JENNIFER","2057","ZM7970",,"09.0.0 Multipurpose Vessels",71.00,,"99.0.0 NK   ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","MAINSTREAM","62914","ZMAK",8729676,"01.0.0 Trawlers",4407.00,,"03.0.0      ","Authorised  ",15/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","MEDEA","56187","ZMA4402",,"07.0.0 Liners",40.00,,"07.9.0 GEN  ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","MOON SHADOW II","900408","ZMQ7563",,"07.2.0 Liners - Longliners",165.00,,"09.3.0 LLS  ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","OCEAN DAWN","63345","ZMSL",8901470,"01.0.0 Trawlers",1899.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","OCEAN ODYSSEY","900914","ZMA2103",,"07.2.0 Liners - Longliners",120.00,,"09.3.0 LLS  ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","OCEAN PIONEER","90054","ZM2582",9100750,"01.0.0 Trawlers",317.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","OTAKOU","62935","ZMOK",8803721,"01.0.0 Trawlers",733.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","PACIFIC CHALLENGER","2059","ZMA2644",,"01.0.0 Trawlers",233.00,,"03.0.0      ","Authorised  ",22/10/2015 12:00:00 a.m.,30/04/2016 12:00:00 a.m.
+"New Zealand","NZL","REHUA","63301","ZMRE",9147784,"01.0.0 Trawlers",2483.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","SAN AOTEA II","63631","ZM2534",9057111,"07.2.0 Liners - Longliners",1079.00,,"09.3.0 LLS  ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","SAN ASPIRING","900522","ZMGO",9226528,"07.2.0 Liners - Longliners",1508.00,,"09.3.0 LLS  ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","SAN RAKAIA","63321","ZMA3228",9149926,"01.0.0 Trawlers",498.00,,"03.1.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","SAN TONGARIRO","63320","ZMA3180",9149914,"01.0.0 Trawlers",498.00,,"03.1.0      ","Authorised  ",15/05/2015 12:00:00 a.m.,30/04/2016 12:00:00 a.m.
+"New Zealand","NZL","SAN WAITAKI","63722","ZMA3176",8901468,"01.0.0 Trawlers",1899.00,,"03.1.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","SANTA MARIA","64058","ZM2781",,"07.2.0 Liners - Longliners",72.00,,"09.3.0 LLS  ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","SANTA ROSA","900838","ZMG2011",,"07.2.0 Liners - Longliners",95.00,,"09.3.0 LLS  ","Authorised  ",22/10/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","SEAMOUNT EXPLORER","63352","ZMOI",8614211,"01.0.0 Trawlers",671.00,,"03.0.0      ","Authorised  ",29/07/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","STRIKE FORCE","901137","ZMG2682",,"07.2.0 Liners - Longliners",70.00,,"09.5.0 LL   ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","TASMAN VIKING","62917","ZMDM",8706480,"01.0.0 Trawlers",372.00,,"03.1.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","THOMAS HARRISON","62816","ZMTH",8611324,"01.0.0 Trawlers",1048.00,,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"New Zealand","NZL","VOYAGER P","7847","ZMPO",7901758,"01.2.0 Trawlers - Stern Trawlers",321.00,321.00,"03.0.0      ","Authorised  ",1/05/2015 12:00:00 a.m.,30/04/2016 11:59:59 p.m.
+"Panama","PAN","ASIAN COSMOS","25635-98-D","3FLM8",9172698,"12.0.0 Fish Carriers",6971.00,6971.00,"99.0.0 NK   ","Authorised  ",4/12/2015 12:00:00 a.m.,3/12/2017 11:59:59 p.m.
+"Panama","PAN","ATMODA","2725-PEXT-4","3FNT8",8908076,"12.0.0 Fish Carriers",12413.00,,"99.0.0 NK   ","Authorised  ",17/04/2015 12:00:00 a.m.,2/07/2016 11:59:59 p.m.
+"Panama","PAN","CHANG SHUN NO.1","47588-PEXT","HP4784",8804012,"07.3.0 Liners - Pole and Line Vessels",1089.00,1089.00,"09.1.0 LHP  ","Authorised  ",12/02/2016 12:00:00 a.m.,4/01/2018 11:59:59 p.m.
+"Panama","PAN","FRIO ANTWERP","21304-94-D","3FVX3",9078282,"12.0.0 Fish Carriers",7307.00,,"99.0.0 NK   ","Authorised  ",21/03/2016 12:00:00 a.m.,23/01/2018 11:59:59 p.m.
+"Panama","PAN","FRIO ATLANTIC","43682-12","3EXR3",8911487,"12.0.0 Fish Carriers",,6420.00,"99.0.0 NK   ","Authorised  ",6/02/2016 12:00:00 a.m.,6/11/2016 11:59:59 p.m.
+"Panama","PAN","FRIO CHIKUMA","25972-98-CH","3FWG8",9184536,"12.0.0 Fish Carriers",7367.00,4765.00,"99.0.0 NK   ","Authorised  ",14/10/2015 12:00:00 a.m.,6/11/2016 11:59:59 p.m.
+"Panama","PAN","FRIO HELLENIC","26371-99-CH","3FVQ8",9081679,"12.0.0 Fish Carriers",9997.00,5567.00,"99.0.0 NK   ","Authorised  ",14/10/2015 12:00:00 a.m.,6/11/2016 11:59:59 p.m.
+"Panama","PAN","FRIO KYKNOS","46443-14","3ETB8",9035072,"12.0.0 Fish Carriers",6082.00,4061.00,"99.0.0 NK   ","Authorised  ",14/10/2015 12:00:00 a.m.,22/09/2016 11:59:59 p.m.
+"Panama","PAN","FRIO LAS PALMAS","46705-15","3EBI9",8908193,"12.0.0 Fish Carriers",,9070.00,"99.0.0 NK   ","Authorised  ",21/03/2016 12:00:00 a.m.,13/01/2018 11:59:59 p.m.
+"Panama","PAN","FRIO OCEANIC","46729-15","3FYF8",8801814,"12.0.0 Fish Carriers",8487.00,3897.00,"99.0.0 NK   ","Authorised  ",14/10/2015 12:00:00 a.m.,22/09/2016 11:59:59 p.m.
+"Panama","PAN","FRIO POSEIDON","46561-15","3EHL5",8807662,"12.0.0 Fish Carriers",,9072.00,"99.0.0 NK   ","Authorised  ",15/11/2015 12:00:00 a.m.,26/10/2016 11:59:59 p.m.
+"Panama","PAN","FRIO SHINANO","20990-93-E","3FNR3",9073385,"12.0.0 Fish Carriers",7307.00,,"99.0.0 NK   ","Authorised  ",21/03/2016 12:00:00 a.m.,1/02/2018 11:59:59 p.m.
+"Panama","PAN","HAI FENG 618","42549-11","3FHE6",9035084,"12.0.0 Fish Carriers",7800.00,7800.00,"99.0.0 NK   ","Authorised  ",12/08/2015 12:00:00 a.m.,8/05/2016 12:00:00 a.m.
+"Panama","PAN","HAI FENG 628","42533-11","3FEO6",8317356,"12.0.0 Fish Carriers",6268.00,6268.00,"99.0.0 NK   ","Authorised  ",12/08/2015 12:00:00 a.m.,3/05/2016 12:00:00 a.m.
+"Panama","PAN","HAI FENG 638","42548-11","3EVC7",8613920,"12.0.0 Fish Carriers",4986.00,4986.00,"99.0.0 NK   ","Authorised  ",12/08/2015 12:00:00 a.m.,8/05/2016 12:00:00 a.m.
+"Panama","PAN","HAI FENG 648","17668-88-F","3EAH6",8710132,"12.0.0 Fish Carriers",4939.00,4939.00,"99.0.0 NK   ","Authorised  ",28/07/2015 12:00:00 a.m.,2/05/2016 11:59:59 p.m.
+"Panama","PAN","HAI FENG 658","17679-88-G","3EHB6",8710209,"12.0.0 Fish Carriers",4939.00,4939.00,"99.0.0 NK   ","Authorised  ",12/08/2015 12:00:00 a.m.,10/05/2016 12:00:00 a.m.
+"Panama","PAN","HAI FENG 678","47345-PEXT-1","3FC05",9016961,"12.0.0 Fish Carriers",12413.00,4901.00,"99.0.0 NK   ","Authorised  ",14/10/2015 12:00:00 a.m.,2/09/2017 12:00:00 a.m.
+"Panama","PAN","HAI FENG 688","44259-12-B","3FDH6",9016985,"12.0.0 Fish Carriers",12413.00,12413.00,"99.0.0 NK   ","Authorised  ",21/03/2016 12:00:00 a.m.,6/01/2018 11:59:59 p.m.
+"Panama","PAN","HAI FENG 698","47003-15-A","3FSJ2",8422711,"12.0.0 Fish Carriers",12398.00,12398.00,"99.0.0 NK   ","Authorised  ",12/01/2016 12:00:00 a.m.,12/01/2018 11:59:59 p.m.
+"Panama","PAN","HAI FENG 718","47748-PEXT","3FIC4",9135169,"12.0.0 Fish Carriers",8896.00,,"99.0.0 NK   ","Authorised  ",7/02/2016 12:00:00 a.m.,23/12/2016 12:00:00 a.m.
+"Panama","PAN","HAI GONG YOU 303","43140-11","3EVX5",9031507,"11.9.0 Motherships - Motherships nei",4989.00,4989.00,"99.0.0 NK   ","Authorised  ",12/08/2015 12:00:00 a.m.,25/10/2016 12:00:00 a.m.
+"Panama","PAN","MINNIE NO. 588","45481-14","HP 2323",,"07.3.0 Liners - Pole and Line Vessels",146.00,44.00,"09.9.0 LX   ","Authorised  ",21/04/2016 12:00:00 a.m.,12/01/2017 11:59:59 p.m.
+"Panama","PAN","NEW TAKATSUKI","19977-92-E","3EFN9",9015838,"12.0.0 Fish Carriers",4446.00,4446.00,"99.0.0 NK   ","Authorised  ",6/02/2016 12:00:00 a.m.,30/12/2016 12:00:00 a.m.
+"Panama","PAN","OCEAN STAR 101","47014-pext","HP7743",,"07.3.0 Liners - Pole and Line Vessels",288.00,146.00,"09.9.0 LX   ","Authorised  ",21/04/2016 12:00:00 a.m.,17/03/2017 12:00:00 a.m.
+"Panama","PAN","OSTROV BERINGA","42501-11","3FHP2",8517815,"12.0.0 Fish Carriers",,5757.00,"99.0.0 NK   ","Authorised  ",6/02/2016 12:00:00 a.m.,6/11/2016 11:59:59 p.m.
+"Panama","PAN","SHANGHAI REEFER","29784-04-CH","HPXZ",9010785,"12.0.0 Fish Carriers",12413.00,5564.00,"99.0.0 NK   ","Authorised  ",14/10/2015 12:00:00 a.m.,22/06/2016 11:59:59 p.m.
+"Peru","PER","ADRIANA","CO-17997-PM","0",,"49.0.0 Fishing Vessels Not Specified",248.26,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","ALESSANDRO","CO-22295-PM","0",,"49.0.0 Fishing Vessels Not Specified",433.04,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","ANA LUCIA","CE-13553-PM","0",,"49.0.0 Fishing Vessels Not Specified",381.80,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","ANDES 52","CO-29039-PM","0",,"49.0.0 Fishing Vessels Not Specified",539.11,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","ATLANTICO IV","CO-10499-PM","0",,"49.0.0 Fishing Vessels Not Specified",366.26,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","BAMAR I","CE-16660-PM","0",,"49.0.0 Fishing Vessels Not Specified",449.55,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","BAMAR II","CE-16661-PM","0",,"49.0.0 Fishing Vessels Not Specified",491.70,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","BAMAR IV","CE-18002-PM","0",,"49.0.0 Fishing Vessels Not Specified",499.55,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","BAMAR VIII","CO-19867-PM","0",,"49.0.0 Fishing Vessels Not Specified",679.88,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","CAPRICORNIO 3","CO-1458-PM","0",,"49.0.0 Fishing Vessels Not Specified",112.18,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","CAPRICORNIO 5","CE-6387-PM","0",,"49.0.0 Fishing Vessels Not Specified",335.62,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","CAPRICORNIO 6","CO-10613-PM","0",,"49.0.0 Fishing Vessels Not Specified",196.58,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","CARACOL","CO-15313-PM","0",,"49.0.0 Fishing Vessels Not Specified",241.53,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","CARMENCITA","CO-15653-PM","0",,"49.0.0 Fishing Vessels Not Specified",431.78,,"01.1.0 PS   ","Authorised  ",8/05/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","CHAVELI II","CE-15259-PM","0",,"49.0.0 Fishing Vessels Not Specified",491.76,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","CONSTANTE","PT-13532-PM","0",,"49.0.0 Fishing Vessels Not Specified",239.89,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","CONSTANZA","CO-16681-PM","0",,"49.0.0 Fishing Vessels Not Specified",463.79,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","CRETA","CO-18167-PM","0",,"49.0.0 Fishing Vessels Not Specified",395.13,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","DANIELA","CO-16869-PM","0",,"49.0.0 Fishing Vessels Not Specified",248.26,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","DON ALFREDO","CO-29856-PM","0",,"49.0.0 Fishing Vessels Not Specified",550.74,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","DON OLE","CO-50608-PM","OA-2150",,"02.1.0 Seiners - Purse Seiners",1426.72,1426.72,"01.1.0 PS   ","Authorised  ",3/04/2016 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","DON ROBERTH","CE-2770-PM","0",,"49.0.0 Fishing Vessels Not Specified",112.18,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","DOÑA RITA","CE-12926-PM","0",,"49.0.0 Fishing Vessels Not Specified",361.10,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","ENTERPRISE","CO-37808-PM","OA-5018",9207211,"49.0.0 Fishing Vessels Not Specified",1742.45,,"03.0.0      , 01.1.0 PS   ","Authorised  ",27/04/2012 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","GERMCS","CO-38384-PM","OA-2450",8908117,"49.0.0 Fishing Vessels Not Specified",7765.00,,"03.0.0      ","Authorised  ",27/04/2012 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","ILA","CO-32169-PM","HO-4337",6819104,"49.0.0 Fishing Vessels Not Specified",1449.75,,"03.0.0      ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","ILENA 1","CO-28571-PM","",,"49.0.0 Fishing Vessels Not Specified",434.55,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","ISABELITA","CE-28791-PM","0",,"49.0.0 Fishing Vessels Not Specified",555.80,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","IVANA B","CE-13680-PM","0",,"49.0.0 Fishing Vessels Not Specified",474.53,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","JACKELIN","CE-6259-PM","0",,"49.0.0 Fishing Vessels Not Specified",345.85,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","JADRANKA B","CE-13681-PM","0",,"49.0.0 Fishing Vessels Not Specified",490.15,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","JUANCHO","CO-12232-PM","0",,"49.0.0 Fishing Vessels Not Specified",312.39,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","KIANA","CO-18812-PM","0",,"49.0.0 Fishing Vessels Not Specified",287.06,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","KIARA B","CE-21455-PM","0",,"49.0.0 Fishing Vessels Not Specified",497.67,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","LIAFJORD","CO-38046-PM","OA-2094",9167916,"49.0.0 Fishing Vessels Not Specified",1584.00,,"03.0.0      , 01.1.0 PS   ","Authorised  ",27/04/2012 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MAGALLANES","PT-6324-PM","0",,"49.0.0 Fishing Vessels Not Specified",364.92,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MALENA","CO-15724-PM","0",,"49.0.0 Fishing Vessels Not Specified",705.46,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MAR NEGRO","CE-0232-PM","0",,"49.0.0 Fishing Vessels Not Specified",360.99,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MARIA JOSE","CO-19579-PM","0",,"49.0.0 Fishing Vessels Not Specified",328.92,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MARIA PIA","CO-15652-PM","0",,"49.0.0 Fishing Vessels Not Specified",705.46,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MARIANA B","CE-16662-PM","0",,"49.0.0 Fishing Vessels Not Specified",373.02,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MARINA","CO-18644-PM","0",,"49.0.0 Fishing Vessels Not Specified",287.07,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MARU","SE-09970-PM","0",,"49.0.0 Fishing Vessels Not Specified",295.57,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MARYLIN II","CE-15260-PM","0",,"49.0.0 Fishing Vessels Not Specified",465.83,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MATTY","CO-20286-PM","0",,"49.0.0 Fishing Vessels Not Specified",365.03,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","MICHELA","CO-16853-PM","0",,"49.0.0 Fishing Vessels Not Specified",248.26,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","NORMA","CO-11391-PM","0",,"49.0.0 Fishing Vessels Not Specified",368.54,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","NUEVA OFELITA","CO-13721-PM","",,"49.0.0 Fishing Vessels Not Specified",312.39,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","NUEVA RESBALOSA","CO-13012-PM","",,"49.0.0 Fishing Vessels Not Specified",312.39,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","OCEANS STAR","CO-51118-PM","D6A2060",7905120,"09.0.0 Multipurpose Vessels",906.00,,"01.2.0 LA   , 03.1.9 TB   ","Authorised  ",7/04/2016 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","OLGA","CO-20863-PM","",,"49.0.0 Fishing Vessels Not Specified",372.00,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","PACIFIC CHAMPION","CO-33547-PM","EI-5520",9184627,"49.0.0 Fishing Vessels Not Specified",1630.00,,"03.0.0      , 01.1.0 PS   ","Authorised  ",1/01/2011 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","PACIFIC HUNTER","CO-30903-PM","OA-3068",8519667,"49.0.0 Fishing Vessels Not Specified",2016.32,,"03.0.0      , 01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","PACIFIC VOYAGER","CO-41331-PM","OA-2703",9167904,"49.0.0 Fishing Vessels Not Specified",2205.00,,"03.0.0      , 01.1.0 PS   ","Authorised  ",1/01/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","PACIFICO","CO-14094-PM","",,"49.0.0 Fishing Vessels Not Specified",227.68,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","PATRICIA","CO-28488-PM","",,"49.0.0 Fishing Vessels Not Specified",465.94,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","PAULA","CO-17082-PM","",,"49.0.0 Fishing Vessels Not Specified",248.26,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","PITI","CO-18813-PM","",,"49.0.0 Fishing Vessels Not Specified",287.06,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","POLAR IV","CO-22308-PM","",,"49.0.0 Fishing Vessels Not Specified",450.29,,"01.1.0 PS   ","Authorised  ",8/05/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","POLAR V","CO-15710-PM","",,"49.0.0 Fishing Vessels Not Specified",460.22,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","POLAR VII","CO-13009-PM","",,"49.0.0 Fishing Vessels Not Specified",405.23,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","RAFAELLA","CO-19014-PM","",,"49.0.0 Fishing Vessels Not Specified",248.26,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","RIBAR IX","CO-16079-PM","",,"49.0.0 Fishing Vessels Not Specified",613.94,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","RIBAR VI","CE-6125-PM","",,"49.0.0 Fishing Vessels Not Specified",514.38,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","RIBAR XVI","CE-13244-PM","",,"49.0.0 Fishing Vessels Not Specified",465.87,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","RIBAR XVIII","CO-17362-PM","",,"49.0.0 Fishing Vessels Not Specified",457.60,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","RODAS","CO-15725-PM","",,"49.0.0 Fishing Vessels Not Specified",451.51,,"01.1.0 PS   ","Authorised  ",8/05/2014 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","ROSA II","CO-16948-PM","",,"49.0.0 Fishing Vessels Not Specified",309.11,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","SEBASTIAN","CO-24654-PM","",,"49.0.0 Fishing Vessels Not Specified",450.25,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","SECHURA","PT-13533-PM","",,"49.0.0 Fishing Vessels Not Specified",239.89,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","SHERIFF","CO-41532-PM","OA-2107",8721088,"01.2.3 Trawlers - Stern Trawlers - Factory",6231.00,,"03.2.9 TM   ","Authorised  ",27/04/2012 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","SIMON","CO-18517-PM","",,"49.0.0 Fishing Vessels Not Specified",287.07,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","STEFANO","CO-22658-PM","",,"49.0.0 Fishing Vessels Not Specified",440.60,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 41","CO-10614-PM","",,"49.0.0 Fishing Vessels Not Specified",484.67,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 419","CO-12974-PM","",,"49.0.0 Fishing Vessels Not Specified",346.58,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 42","CO-18294-PM","",,"49.0.0 Fishing Vessels Not Specified",447.17,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 427","CO-14971-PM","0",,"49.0.0 Fishing Vessels Not Specified",294.69,,"01.1.0 PS   ","Authorised  ",31/03/2010 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","TASA 51","CO-20761-PM","",,"49.0.0 Fishing Vessels Not Specified",550.02,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 52","CO-20777-PM","",,"49.0.0 Fishing Vessels Not Specified",556.96,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 53","CO-13918-PM","",,"49.0.0 Fishing Vessels Not Specified",369.86,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 54","CO-13008-PM","",,"49.0.0 Fishing Vessels Not Specified",524.48,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 55","CO-22326-PM","",,"49.0.0 Fishing Vessels Not Specified",500.05,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 56","CO-19871-PM","",,"49.0.0 Fishing Vessels Not Specified",407.17,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 57","CO-17359-PM","",,"49.0.0 Fishing Vessels Not Specified",415.77,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 58","CO-17057-PM","",,"49.0.0 Fishing Vessels Not Specified",489.97,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 59","CO-17361-PM","",,"49.0.0 Fishing Vessels Not Specified",532.09,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TASA 71","CO-15233-PM","",,"49.0.0 Fishing Vessels Not Specified",554.75,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","TIBURON 7","CO-16854-PM","",,"49.0.0 Fishing Vessels Not Specified",486.29,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Peru","PER","WESTELLA","CO-29381-PM","OA-4580",8024454,"01.2.2 Trawlers - Stern Trawlers - Freezer",2031.00,2589.00,"03.2.1 OTM  ","Authorised  ",2/07/2015 12:00:00 a.m.,31/12/2999 11:59:59 p.m.
+"Peru","PER","YAGODA B","CE-15261-PM","",,"49.0.0 Fishing Vessels Not Specified",491.80,,"01.1.0 PS   ","Authorised  ",1/01/2009 12:00:00 a.m.,31/12/2999 12:00:00 a.m.
+"Chinese Taipei","TWN","AN SHENG","CT7-0229","BI2229",8874029,"07.9.0 Liners - Liners nei",845.00,845.00,"09.2.0 LHM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","HER WEN NO.1","CT8-0036","BEOZ",8680442,"12.0.0 Fish Carriers",2495.00,,"99.0.0 NK   ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","HSIANG CHING","CT7-0497","BI2497",8989850,"07.9.0 Liners - Liners nei",973.00,973.00,"09.2.0 LHM  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","HSIANG LAI FU","CT7-0236","BI2236",8683030,"07.9.0 Liners - Liners nei",876.71,876.00,"09.2.0 LHM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","HSIANG MAN CHING","CT7-0141","BI2141",8680959,"07.9.0 Liners - Liners nei",894.38,894.00,"09.2.0 LHM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","JIN HWEI NO.101","CT8-0023","BEAP",7323396,"12.0.0 Fish Carriers",1376.35,,"","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","JIN YI","CT7-0611","BI2611",8684981,"07.9.0 Liners - Liners nei",960.00,,"09.1.0 LHP  ","Authorised  ",10/03/2016 12:00:00 a.m.,31/12/2016 12:00:00 a.m.
+"Chinese Taipei","TWN","JIN YUH LONG","CT7-0261","BI2261",8680519,"07.9.0 Liners - Liners nei",888.00,888.00,"09.2.0 LHM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","MING MAN","CT7-0498","BI2498",8676661,"07.9.0 Liners - Liners nei",948.00,,"09.1.0 LHP  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","SOLAR NO.101","CT7-0171","BI2171",8656312,"07.9.0 Liners - Liners nei",890.00,,"09.1.0 LHP  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","TAH YUAN NO.11","CT7-0210","BI2210",8655605,"07.9.0 Liners - Liners nei",888.64,,"09.1.0 LHP  ","Authorised  ",30/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","YONG DAH MING","CT7-0221","BI2221",8947149,"07.9.0 Liners - Liners nei",875.00,,"09.1.0 LHP  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Chinese Taipei","TWN","YUAN TAI NO. 806","CT8-0035","BZIR",7900663,"12.0.0 Fish Carriers",1798.00,,"99.0.0 NK   ","Authorised  ",25/03/2016 12:00:00 a.m.,31/12/2016 12:00:00 a.m.
+"Chinese Taipei","TWN","YUH LONG FA","CT7-0127","BI2127",8680521,"07.9.0 Liners - Liners nei",888.64,888.00,"09.2.0 LHM  ","Authorised  ",1/01/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Vanuatu","VUT","B. SKY","2263","YJTN7",9381627,"11.9.0 Motherships - Motherships nei",3978.00,3978.00,"99.0.0 NK   ","Authorised  ",12/07/2015 12:00:00 a.m.,11/07/2018 12:00:00 a.m.
+"Vanuatu","VUT","FRIGG","1123","YJRB2",8907113,"01.2.2 Trawlers - Stern Trawlers - Freezer",,7805.00,"03.2.1 OTM  ","Authorised  ",17/02/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Vanuatu","VUT","FRIO ATHENS","1969","YJQN2",8710340,"12.0.0 Fish Carriers",8519.00,8519.00,"","Authorised  ",17/02/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Vanuatu","VUT","FRIO DOLPHIN","1964","YJQK2",8807442,"12.0.0 Fish Carriers",8516.00,8519.00,"","Authorised  ",17/02/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Vanuatu","VUT","ODIN","1124","YJRB3",8907084,"01.2.2 Trawlers - Stern Trawlers - Freezer",,7805.00,"03.2.1 OTM  ","Authorised  ",17/02/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
+"Vanuatu","VUT","ZEFYROS","1965","YJQK7",8916748,"12.0.0 Fish Carriers",8483.00,8483.00,"","Authorised  ",17/02/2016 12:00:00 a.m.,31/12/2016 11:59:59 p.m.
