@@ -24,8 +24,8 @@ input[readonly] {
     border: dotted;
     border-width: thin;
     height: 150px;
-    margin: 20px 5px 5px 6px;
-    width: 98%;
+    margin: 20px 5px 13px 14px;
+    width: 95%;
     padding: 10px;
 }
 
@@ -36,4 +36,13 @@ input[readonly] {
 .modal-body {
     padding-top: 5px;
     padding-bottom: 0px;
+}
+
+.progress {
+    margin-bottom: 0px;
+    margin-top: 4px;
+}
+
+.sr-only {
+    position: relative;
 }

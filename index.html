@@ -3,21 +3,15 @@
 
 <head>
     <meta charset="utf-8">
+    <title>Fishing Vessels Aggregator | Fishackathon 2016 | team by: viv@ </title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <style type="text/css">
-        ul>li,
-        a {
-            cursor: pointer;
-        }
-
-    </style>
-    <title>Maritime Domain Awareness | Fishackathon 2016 | by:viv@ </title>
+    <link href="/css/app.css" rel="stylesheet">
 </head>
 
 <body>
     <div class="container">
         <div class="row">
-            <img src="/images/vessels-and-pleasure-boats.jpg" class="img-responsive">
+            <img src="/images/fishing-vessels-appregator-header.jpg" class="img-responsive">
         </div>
     </div>
 
@@ -44,7 +38,7 @@
     <div ng-controller="mainCrtl">
         <div class="container">
             <br/>
-            <h4>Total {{ totalItems}} fishing vessels found</h4>
+            <h5>In our internal database we have total {{ totalItems}} fishing vessels. We are collecting the data on daily basis.</h5>
             <br/>
             <div class="row col-centered">
                 <div class="col-md-2">PageSize:
@@ -63,25 +57,12 @@
                     <h5 ng-show="search.length > 1">{{ filtered.length  }} result filtered found</h5>
                 </div>
 
-                <!--            <div class="row text-right">-->
                 <div class="col-md-4 text-right">&nbsp;
                     <input type="file" file-model="myFile" style="display:none">
                     <button class="btn btn-default" ng-click="open()">Import</button>
                     <button type="button" class="btn btn-default">Add New</button>
                 </div>
-                <!--            </div>-->
-                <!--
-<div class="row text-right">
-    <div class="col-md-2">&nbsp;
-
-    </div></div>
--->
             </div>
-            <!--
-                    <span class="file-input btn btn-default btn-file">Import CSV
-                        <input type="file" file-model = "myFile">
-                    </span>
-            -->
             <br/>
             <div class="row">
                 <div class="col-md-12" ng-show="filteredItems > 0">
@@ -122,7 +103,6 @@
                 </div>
             </div>
 
-            <!-- The actual modal template, just a bit o bootstrap -->
             <script type="text/ng-template" id="modalUpload.html">
                 <div class="modal-dialog">
                     <div class="modal-header">
@@ -132,27 +112,21 @@
                     <div class="modal-body">
                         <div class="row">&nbsp;
                             <div class="col-md-12">
-                                <input style="display:inline" type="file" file-model="myFile" />
-                                <button ng-click="uploadFile()">Upload</button>
-                            </div>
-                            <button type="file" ngf-select="uploadFiles($file, $invalidFiles)" accept="*" ngf-max-height="1000" ngf-max-size="1MB">
-                                Choose File</button>
-                            <br>
-                            <br> File:
-                            <!--
-<div style="font:smaller">
-    <span class="progress" ng-show="f.progress >= 0">
-          <div style="width:{{f.progress}}%"  
-               ng-bind="f.progress + '%'"></div>
-      </span>
-</div>
--->
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:{{f.progress}}%">
-                                    {{f.name}} {{errFile.name}} {{errFile.$error}} {{errFile.$errorParam}}
-                                    <span class="sr-only">Uploading {{f.name}} 70% Complete</span>
-                                </div>
+                                <button type="file" ngf-select="uploadFiles($file, $invalidFiles)" accept="csv/*" ngf-max-height="1000" ngf-max-size="1MB" class="btn btn-default btn-sm" style="float:left; margin-right:10px;">
+                                    Select file to import</button>
+                                <div>{{f.name}} {{errFile.name}} {{errFile.$error}} {{errFile.$errorParam}}</div>
+                                <div class="progress">
+                                    <div class="progress-bar " role="progressbar" ng-show="f.progress > 0 && f.progress < 100" style="width:{{f.progress}}%">
+                                        <span class="sr-only">uploading...</span>
+                                    </div>
 
+                                    <div class="progress-bar progress-bar-success" ng-show="f.progress == 100" style="width:{{f.progress}}%">
+                                        <span class="sr-only">Upload complete</span>
+                                    </div>
+                                    <div class="progress-bar progress-bar-danger" ng-show="errFile.$error != null" style="width: 100%">
+                                        <span class="sr-only">Upload Error - Something went wrong! </span>
+                                    </div>
+                                </div>
                             </div>
                             <br/>
                             <div class="col-md-12 drag-drop-border">&nbsp;
@@ -171,14 +145,11 @@
         </div>
 
     </div>
-    <!--    <script src="js/angular.min.js"></script>-->
     <script type="text/javascript" src="js/angular.js"></script>
     <script type="text/javascript" src="js/ng-file-upload-shim.js"></script>
     <script type="text/javascript" src="js/ng-file-upload.js"></script>
     <script src="js/ui-bootstrap-tpls-0.10.0.min.js"></script>
     <script src="app/app.js"></script>
-
-    <link href="/css/app.css" rel="stylesheet">
 </body>
 
 </html>
